@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <tm:TermDictionary xmlns:tm="http://exerd.com/term-model" version="1.1">
   <term name="1" description="숫자 1" physicalName="ONE" physicalDescription="ONE" tag="//@tag.0"/>
   <term name="10월" description="10월" physicalName="OCT" physicalDescription="OCTOBER" tag="//@tag.1"/>
@@ -13922,6 +13922,13 @@
   <term name="히트" description="웹서버에 저장된 파일이 인터넷 사용자에게 노출되는 것." physicalName="HIT" physicalDescription="HIT" tag="//@tag.9"/>
   <term name="힌트" description="어떠한 일을 해결하는 데 실마리가 되는 것." physicalName="HINT" physicalDescription="HINT" tag="//@tag.9"/>
   <term name="힘" description="사람이나 동물이 스스로 움직이고 또 다른 것을 움직일 수 있는 근육의 작용." physicalName="STNGTH" physicalDescription="STRENGTH" tag="//@tag.9"/>
+  <term name="안경원" description="안경원" physicalName="OPTCNS_STORE" physicalDescription="optician's shop" tag="//@tag.362"/>
+  <term name="포인트" physicalName="POINT" tag="//@tag.362"/>
+  <term name="오른쪽 눈" physicalName="OD" tag="//@tag.362"/>
+  <term name="왼쪽 눈" physicalName="OS" tag="//@tag.362"/>
+  <term name="난시교정방향" physicalName="AXIS" tag="//@tag.362"/>
+  <term name="난시량" physicalName="CYL" tag="//@tag.362"/>
+  <term name="도수량" physicalName="SPH" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
@@ -14284,4 +14291,5 @@
   <tag name="한의학연구 및 정책개발"/>
   <tag name="우주기술개발"/>
   <tag name="해양수산 행정지원"/>
+  <tag name="XPOSCS"/>
 </tm:TermDictionary>
