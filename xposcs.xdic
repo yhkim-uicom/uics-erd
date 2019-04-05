@@ -5770,7 +5770,7 @@
   <term name="사후평가" description="사전평가에서 사용한 합의된 평가지표의 실 데이터를 적용한 결과치에 대해 사전평가와의 GAP 분석을 수행함" physicalName="PSEVAL" physicalDescription="POST EVALUATION" tag="//@tag.9"/>
   <term name="삭감" description="깎아서 줄임" physicalName="REDCT" physicalDescription="REDUCTION" tag="//@tag.9"/>
   <term name="삭도" description="索道&#xA; 지주 또는 임목을 이용하여 와이어로프 또는 강선 등을 설치하여 원목을 나르거나 자재, 인원 수송을 위하여 설치한 시설." physicalName="ARLCWY" physicalDescription="AERIAL CABLEWAY" tag="//@tag.2"/>
-  <term name="삭제" description="削除&#xA; 화면(畵面)에 표시된 문자를 지우는 일. 또는 파일 내에 저장된 기록을 제거하거나 기억 장치에서 프로그램을 지우는 일." physicalName="DELETE" physicalDescription="DELETE" tag="//@tag.9"/>
+  <term name="삭제" description="削除&#xA; 화면(畵面)에 표시된 문자를 지우는 일. 또는 파일 내에 저장된 기록을 제거하거나 기억 장치에서 프로그램을 지우는 일." physicalName="DEL" physicalDescription="DELETE" tag="//@tag.9"/>
   <term name="삭제사유" description="削除事由&#xA; 없앤 이유" physicalName="DTRN" physicalDescription="DELETE REASON" tag="//@tag.9"/>
   <term name="삭제자" description="削除者&#xA; 삭제한 사람 또는 조직" physicalName="DLTR" physicalDescription="DELETER" tag="//@tag.9"/>
   <term name="산" description="山&#xA; 평지보다 높이 솟아 있는 땅의 부분." physicalName="MNTN" physicalDescription="MOUNTAIN" tag="//@tag.9"/>
@@ -7800,7 +7800,7 @@
   <term name="여름" description="일 년의 네 철 가운데 두 번째 철. 봄과 가을 사이의 낮이 길고 더운 계절." physicalName="SUMMER" physicalDescription="SUMMER" tag="//@tag.9"/>
   <term name="여백" description="餘白&#xA; 글씨나 그림이 있는 지면에서, 아무것도 없이 비어 있는 부분." physicalName="BLANK" physicalDescription="BLANK" tag="//@tag.9"/>
   <term name="여벌받기" description="잘못된 조작 때문에 데이터나 정보 파일이 손상되는 것에 대비하여 똑같은 파일을 여분으로 디스켓 따위에 복사해 두는 일." physicalName="BACKUP" physicalDescription="BACKUP" tag="//@tag.9"/>
-  <term name="여부" description="與否&#xA; 그러함과 그러하지 아니함." physicalName="AT" physicalDescription="ALTERNATIVE" tag="//@tag.9"/>
+  <term name="여부" description="與否&#xA; 그러함과 그러하지 아니함." physicalName="YN" physicalDescription="YES or NO" tag="//@tag.9"/>
   <term name="여분" description="여분(餘分)[명사]필요한 양을 넘어 남는 분량. 나머지. \n【예】여분이 하나도 없다." physicalName="EXTRA" physicalDescription="EXTRA" tag="//@tag.9"/>
   <term name="여비" description="旅費&#xA; 여행에 드는 비용" physicalName="TRVCT" physicalDescription="TRAVEL COST" tag="//@tag.9"/>
   <term name="여성" description="女性&#xA; 성(性)의 측면에서 여자를 이르는 말." physicalName="FEMALE" physicalDescription="FEMALE" tag="//@tag.261"/>
@@ -13929,6 +13929,7 @@
   <term name="난시교정방향" physicalName="AXIS" tag="//@tag.362"/>
   <term name="난시량" physicalName="CYL" tag="//@tag.362"/>
   <term name="도수량" physicalName="SPH" tag="//@tag.362"/>
+  <term name="프리폼" description="자유양식의 안경주문 방식" physicalName="FREEFORM" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
