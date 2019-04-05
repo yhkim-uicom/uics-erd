@@ -13923,13 +13923,46 @@
   <term name="힌트" description="어떠한 일을 해결하는 데 실마리가 되는 것." physicalName="HINT" physicalDescription="HINT" tag="//@tag.9"/>
   <term name="힘" description="사람이나 동물이 스스로 움직이고 또 다른 것을 움직일 수 있는 근육의 작용." physicalName="STNGTH" physicalDescription="STRENGTH" tag="//@tag.9"/>
   <term name="안경원" description="안경원" physicalName="OPTCNS_STORE" physicalDescription="optician's shop" tag="//@tag.362"/>
-  <term name="포인트" physicalName="POINT" tag="//@tag.362"/>
-  <term name="오른쪽 눈" physicalName="OD" tag="//@tag.362"/>
-  <term name="왼쪽 눈" physicalName="OS" tag="//@tag.362"/>
-  <term name="난시교정방향" physicalName="AXIS" tag="//@tag.362"/>
-  <term name="난시량" physicalName="CYL" tag="//@tag.362"/>
-  <term name="도수량" physicalName="SPH" tag="//@tag.362"/>
-  <term name="프리폼" description="자유양식의 안경주문 방식" physicalName="FREEFORM" tag="//@tag.362"/>
+  <term name="포인트" description="" physicalName="POINT" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈" description="" physicalName="OD" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈" description="" physicalName="OS" physicalDescription="" tag="//@tag.362"/>
+  <term name="난시교정방향" description="" physicalName="AXIS" physicalDescription="" tag="//@tag.362"/>
+  <term name="난시량" description="" physicalName="CYL" physicalDescription="" tag="//@tag.362"/>
+  <term name="도수량" description="" physicalName="SPH" physicalDescription="" tag="//@tag.362"/>
+  <term name="프리폼" description="자유양식의 안경주문 방식" physicalName="FREEFORM" physicalDescription="" tag="//@tag.362"/>
+  <term name="안경테대각길이" description="안경테 대각선 길이" physicalName="FRM_DIAGONAL_SIZE" physicalDescription="FORM DIAGONAL" tag="//@tag.362"/>
+  <term name="안경테세로길이" description="" physicalName="FRM_VRTCL_SIZE" physicalDescription="" tag="//@tag.362"/>
+  <term name="UV코팅여부" description="" physicalName="UV_COT_YN" physicalDescription="" tag="//@tag.362"/>
+  <term name="곡률반경" description="" physicalName="CURVE" physicalDescription="" tag="//@tag.362"/>
+  <term name="여별판매목록번호" description="" physicalName="EX_SALES_LIST_NO" physicalDescription="" tag="//@tag.362"/>
+  <term name="OU동일여부" description="" physicalName="OU_SAME_YN" physicalDescription="" tag="//@tag.362"/>
+  <term name="안경테종류" description="" physicalName="FRM_KIND" physicalDescription="" tag="//@tag.362"/>
+  <term name="안경테모양" description="" physicalName="FRM_SHAPE" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈 노안 추가 도수" description="" physicalName="OS_ADD" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈 중심까지의 거리" description="" physicalName="OS_PD" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈  노안 추가 도수" description="" physicalName="OD_ADD" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈 OH" description="" physicalName="OS_OH" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈 중심까지의 거리" description="" physicalName="OD_PD" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈 OH" description="" physicalName="OD_OH" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈 시선정렬 IO 방향" description="" physicalName="OS_PRISM_IO" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈 IO 시선정렬 량" description="" physicalName="OS_BASE_IO" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈 시선정렬 IO 방향" description="" physicalName="OD_PRISM_IO" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈 IO 시선정렬 량" description="" physicalName="OD_BASE_IO" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈 시선정렬 UD 방향" description="" physicalName="OS_PRISM_UD" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈 UD 시선정렬 량" description="" physicalName="OS_BASE_UD" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈 시선정렬 UD 방향" description="" physicalName="OD_PRISM_UD" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈 UD 시선정렬 량" description="" physicalName="OD_BASE_UD" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈 INSET" description="" physicalName="OS_INSET" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈 INSET" description="" physicalName="OD_INSET" physicalDescription="" tag="//@tag.362"/>
+  <term name="착색공장" description="" physicalName="CLRNG_FCTRY" physicalDescription="" tag="//@tag.362"/>
+  <term name="착색종류" description="" physicalName="CLRNG_KIND" physicalDescription="" tag="//@tag.362"/>
+  <term name="착색타입" description="" physicalName="CLRNG_TYPE" physicalDescription="" tag="//@tag.362"/>
+  <term name="착색농도1" description="" physicalName="CLRNG_DNSTY1" physicalDescription="" tag="//@tag.362"/>
+  <term name="착색농도2" description="" physicalName="CLRNG_DNSTY2" physicalDescription="" tag="//@tag.362"/>
+  <term name="착색메모" description="" physicalName="CLRNG_MEMO" physicalDescription="" tag="//@tag.362"/>
+  <term name="안경테가로길이" description="" physicalName="FRM_HRZNT_SIZE" physicalDescription="" tag="//@tag.362"/>
+  <term name="안경테브릿지길이" description="" physicalName="FRM_BRDG_SIZE" physicalDescription="" tag="//@tag.362"/>
+  <term name="도수" physicalName="SPH" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
