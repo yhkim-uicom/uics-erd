@@ -13964,6 +13964,11 @@
   <term name="안경테브릿지길이" description="" physicalName="FRM_BRDG_SIZE" physicalDescription="" tag="//@tag.362"/>
   <term name="도수" physicalName="SPH" tag="//@tag.362"/>
   <term name="재고" description="재고는 기업, 상점 등이 가공 및 판매하기 위해서 보유하는 원재료, 재공품, 제품 또는 상품 등의 재화를 말한다." physicalName="STOCK" physicalDescription="STOCK" tag="//@tag.362"/>
+  <term name="엔젤루체" physicalName="ANGELUCE" tag="//@tag.362"/>
+  <term name="표시" physicalName="MARK" tag="//@tag.362"/>
+  <term name="오른쪽 눈 가까운 중심까지의 거리" physicalName="OD_PD_NEAR" tag="//@tag.362"/>
+  <term name="왼쪽 눈 가까운 중심까지의 거리" physicalName="OS_PD_NEAR" tag="//@tag.362"/>
+  <term name="누진대" physicalName="CORRIDOR" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
