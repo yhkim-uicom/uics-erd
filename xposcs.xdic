@@ -13969,6 +13969,7 @@
   <term name="오른쪽 눈 가까운 중심까지의 거리" physicalName="OD_PD_NEAR" tag="//@tag.362"/>
   <term name="왼쪽 눈 가까운 중심까지의 거리" physicalName="OS_PD_NEAR" tag="//@tag.362"/>
   <term name="누진대" physicalName="CORRIDOR" tag="//@tag.362"/>
+  <term name="초점" physicalName="FOCUS" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
