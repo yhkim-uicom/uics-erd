@@ -13922,7 +13922,7 @@
   <term name="히트" description="웹서버에 저장된 파일이 인터넷 사용자에게 노출되는 것." physicalName="HIT" physicalDescription="HIT" tag="//@tag.9"/>
   <term name="힌트" description="어떠한 일을 해결하는 데 실마리가 되는 것." physicalName="HINT" physicalDescription="HINT" tag="//@tag.9"/>
   <term name="힘" description="사람이나 동물이 스스로 움직이고 또 다른 것을 움직일 수 있는 근육의 작용." physicalName="STNGTH" physicalDescription="STRENGTH" tag="//@tag.9"/>
-  <term name="안경원" description="안경원" physicalName="OPTCNS_STORE" physicalDescription="optician's shop" tag="//@tag.362"/>
+  <term name="안경원" description="안경원" physicalName="OPTCNS" physicalDescription="optician's shop" tag="//@tag.362"/>
   <term name="포인트" description="" physicalName="POINT" physicalDescription="" tag="//@tag.362"/>
   <term name="오른쪽 눈" description="" physicalName="OD" physicalDescription="" tag="//@tag.362"/>
   <term name="왼쪽 눈" description="" physicalName="OS" physicalDescription="" tag="//@tag.362"/>
@@ -13940,7 +13940,7 @@
   <term name="안경테모양" description="" physicalName="FRM_SHAPE" physicalDescription="" tag="//@tag.362"/>
   <term name="왼쪽 눈 노안 추가 도수" description="" physicalName="OS_ADD" physicalDescription="" tag="//@tag.362"/>
   <term name="왼쪽 눈 중심까지의 거리" description="" physicalName="OS_PD" physicalDescription="" tag="//@tag.362"/>
-  <term name="오른쪽 눈  노안 추가 도수" description="" physicalName="OD_ADD" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈 노안 추가 도수" description="" physicalName="OD_ADD" physicalDescription="" tag="//@tag.362"/>
   <term name="왼쪽 눈 OH" description="" physicalName="OS_OH" physicalDescription="" tag="//@tag.362"/>
   <term name="오른쪽 눈 중심까지의 거리" description="" physicalName="OD_PD" physicalDescription="" tag="//@tag.362"/>
   <term name="오른쪽 눈 OH" description="" physicalName="OD_OH" physicalDescription="" tag="//@tag.362"/>
@@ -13968,8 +13968,11 @@
   <term name="표시" physicalName="MARK" tag="//@tag.362"/>
   <term name="오른쪽 눈 가까운 중심까지의 거리" physicalName="OD_PD_NEAR" tag="//@tag.362"/>
   <term name="왼쪽 눈 가까운 중심까지의 거리" physicalName="OS_PD_NEAR" tag="//@tag.362"/>
-  <term name="누진대" physicalName="CORRIDOR" tag="//@tag.362"/>
   <term name="초점" physicalName="FOCUS" tag="//@tag.362"/>
+  <term name="샤인광학" physicalName="SHNOPTC"/>
+  <term name="구면" description="(렌즈·거울 등의) 구면" physicalName="SPHERICAL" tag="//@tag.362"/>
+  <term name="누진대" physicalName="PROGRESSIVE_UNIT" tag="//@tag.362"/>
+  <term name="누진" physicalName="PROGRESSIVE" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
