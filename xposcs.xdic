@@ -13944,14 +13944,14 @@
   <term name="왼쪽 눈 OH" description="" physicalName="OS_OH" physicalDescription="" tag="//@tag.362"/>
   <term name="오른쪽 눈 중심까지의 거리" description="" physicalName="OD_PD" physicalDescription="" tag="//@tag.362"/>
   <term name="오른쪽 눈 OH" description="" physicalName="OD_OH" physicalDescription="" tag="//@tag.362"/>
-  <term name="왼쪽 눈 시선정렬 IO 방향" description="" physicalName="OS_PRISM_IO" physicalDescription="" tag="//@tag.362"/>
-  <term name="왼쪽 눈 IO 시선정렬 량" description="" physicalName="OS_BASE_IO" physicalDescription="" tag="//@tag.362"/>
-  <term name="오른쪽 눈 시선정렬 IO 방향" description="" physicalName="OD_PRISM_IO" physicalDescription="" tag="//@tag.362"/>
-  <term name="오른쪽 눈 IO 시선정렬 량" description="" physicalName="OD_BASE_IO" physicalDescription="" tag="//@tag.362"/>
-  <term name="왼쪽 눈 시선정렬 UD 방향" description="" physicalName="OS_PRISM_UD" physicalDescription="" tag="//@tag.362"/>
-  <term name="왼쪽 눈 UD 시선정렬 량" description="" physicalName="OS_BASE_UD" physicalDescription="" tag="//@tag.362"/>
-  <term name="오른쪽 눈 시선정렬 UD 방향" description="" physicalName="OD_PRISM_UD" physicalDescription="" tag="//@tag.362"/>
-  <term name="오른쪽 눈 UD 시선정렬 량" description="" physicalName="OD_BASE_UD" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈 IO 시선정렬 방향" description="" physicalName="OS_IO_BASE" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈 IO 시선정렬 량" description="" physicalName="OS_IO_PRISM" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈 IO 시선정렬 방향" description="" physicalName="OD_IO_BASE" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈 IO 시선정렬 량" description="" physicalName="OD_IO_PRISM" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈 UD 시선정렬 방향" description="" physicalName="OS_UD_BASE" physicalDescription="" tag="//@tag.362"/>
+  <term name="왼쪽 눈 UD 시선정렬 량" description="" physicalName="OS_UD_PRISM" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈 UD 시선정렬 방향" description="" physicalName="OD_UD_BASE" physicalDescription="" tag="//@tag.362"/>
+  <term name="오른쪽 눈 UD 시선정렬 량" description="" physicalName="OD_UD_PRISM" physicalDescription="" tag="//@tag.362"/>
   <term name="왼쪽 눈 INSET" description="" physicalName="OS_INSET" physicalDescription="" tag="//@tag.362"/>
   <term name="오른쪽 눈 INSET" description="" physicalName="OD_INSET" physicalDescription="" tag="//@tag.362"/>
   <term name="착색공장" description="" physicalName="CLRNG_FCTRY" physicalDescription="" tag="//@tag.362"/>
