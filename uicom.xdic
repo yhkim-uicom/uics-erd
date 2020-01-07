@@ -141,7 +141,7 @@
   <term name="매출완료여부" description="물건을 내어 파는일을 완전히 끝마쳤는지 아닌지의 여부" physicalName="STATE_GUBN" physicalDescription="" tag="//@tag.363"/>
   <term name="매출은행" description="매출을 관리하는 은행" physicalName="SALE_BANK" physicalDescription="" tag="//@tag.363"/>
   <term name="매출일련번호" description="물건을 내어 판 일에 매겨진 일률적으로 이어 붙인 번호" physicalName="SA_NUM" physicalDescription="" tag="//@tag.363"/>
-  <term name="매출처 코드" description="물건을 내어 판 곳의 코드" physicalName="SA_CODE" physicalDescription="" tag="//@tag.363"/>
+  <term name="매출처코드" description="물건을 내어 판 곳의 코드" physicalName="SA_CODE" physicalDescription="" tag="//@tag.363"/>
   <term name="매출총금액" description="물건을 내어 팔고 받은 전체 돈의 액수" physicalName="SAL_AMT" physicalDescription="" tag="//@tag.363"/>
   <term name="매출카드" description="카드를 받고 물건을 내어 팖" physicalName="SALE_CARD" physicalDescription="" tag="//@tag.363"/>
   <term name="매출합계" description="물건을 내어 팔고 받은 돈의 액수를 한데 합하여 계산" physicalName="SALE_SUM" physicalDescription="" tag="//@tag.363"/>
