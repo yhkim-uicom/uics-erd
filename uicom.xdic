@@ -152,7 +152,6 @@
   <term name="메뉴영문명" description="디스플레이 장치 위에 표시하여 둠으로써 사용자가 명령을 선택할 수 있도록 한 조작 순서의 일람표의 영어이름" physicalName="MENUNAME_EN" physicalDescription="" tag="//@tag.363"/>
   <term name="메뉴이름" description="디스플레이 장치 위에 표시하여 둠으로써 사용자가 명령을 선택할 수 있도록 한 조작 순서의 일람표의 이름" physicalName="MENUNAME" physicalDescription="" tag="//@tag.363"/>
   <term name="메뉴타입" description="디스플레이 장치 위에 표시하여 둠으로써 사용자가 명령을 선택할 수 있도록 한 조작 순서의 일람표의 형태" physicalName="MENUTYPE" physicalDescription="" tag="//@tag.363"/>
-  <term name="메시지내용" description="어떤 사실을 알리거나 주장하거나 경고하기 위해 내세우거나 특별히 보내는 말의 기본 줄거리나 담겨진 사상" physicalName="MESSAGE" physicalDescription="" tag="//@tag.363"/>
   <term name="메이커" description="이름 난 상품 제조업체의 상표" physicalName="MAKER" physicalDescription="" tag="//@tag.363"/>
   <term name="무상금액" description="어떤 행위에 대해 요구하는 대가나 보상이 없는 돈의 액수" physicalName="COST_NO" physicalDescription="" tag="//@tag.363"/>
   <term name="문자발송" description="키보드를 눌러 화면에 나타낼 수 있는 한글, 알파벳, 한자, 숫자, 구두점 따위의 기호를 통틀어 이르는 말을 우편으로 보냄" physicalName=" 알파벳" physicalDescription=" 한자" tag="//@tag.363"/>
@@ -209,7 +208,7 @@
   <term name="사이트등록일" description="인터넷에서, 어떤 정보가 있는 일정한 영역을 올린 날" physicalName="SITE_DATE" physicalDescription="" tag="//@tag.363"/>
   <term name="사진또는도면이미지" description="광학적 방법으로 감광 재료면에 박아 낸 물체의 영상 또는 토목, 기계, 토지 등의 구조나 지형, 설계 따위를 제도기를 써서 기하학적으로 그린 그림의 직관적인 인상" physicalName="PIC_NAME" physicalDescription="" tag="//@tag.363"/>
   <term name="삭제" description="화면(畵面)에 표시된 문자를 지우는 일. 또는 파일 내에 저장된 기록을 제거하거나 기억 장치에서 프로그램을 지우는 일" physicalName="DEL" physicalDescription="DELETE" tag="//@tag.9"/>
-  <term name="삭제여부" description="화면에 표시된 문자를 지우는 일에 대한 여부" physicalName="ISDELETEFLAG" physicalDescription="" tag="//@tag.363"/>
+  <term name="삭제여부" description="화면에 표시된 문자를 지우는 일에 대한 여부" physicalName="DEL_YN" physicalDescription="" tag="//@tag.363"/>
   <term name="상담내용" description="어떤 일을 서로 의논하거나 그 방면의 전문가에게 의뢰한 내용" physicalName="ADV_CON" physicalDescription="" tag="//@tag.363"/>
   <term name="상세계정" description="같은 종류나 동일 명칭의 자산, 부채, 자본, 수익, 비용, 손실에 대하여 그 증감을 계산ㆍ기록하기 위하여 설정한 단위를 낱낱이 자세하게 다루다 " physicalName="KT3_CD" physicalDescription="" tag="//@tag.363"/>
   <term name="상품URL정보" description="사고파는 물건이나 재화에 대한 새로운 소식이나 자료가 담긴 서버를 인터넷의 www에서 지시하는 방법" physicalName="URL_INFO" physicalDescription="" tag="//@tag.363"/>
@@ -4400,9 +4399,8 @@
   <term name="메뉴" description="디스플레이 장치 위에 표시하여 둠으로써 사용자가 마우스나 키보드를 이용하여 명령을 선택할 수 있도록 한 조작 순서 일람표." physicalName="MENU" physicalDescription="MENU" tag="//@tag.9"/>
   <term name="메모" description="다른 사람에게 말을 전하거나 자신의 기억을 돕기 위하여 짤막하게 글로 남김." physicalName="MEMO" physicalDescription="MEMO" tag="//@tag.9"/>
   <term name="메모리" description="데이터나 명령을 비롯하여 컴퓨터 내부에서 계산 처리한 결과를 기억하는 장치 또는 용량" physicalName="MORY" physicalDescription="MEMORY" tag="//@tag.9"/>
-  <term name="메세지" description="어떤 사실을 알리거나 주장하거나 경고하기 위하여 보내는 전언(傳言)." physicalName="MSSAGE" physicalDescription="MESSAGE" tag="//@tag.9"/>
+  <term name="메세지" description="어떤 사실을 알리거나 주장하거나 경고하기 위하여 보내는 전언(傳言)." physicalName="MSG" physicalDescription="MESSAGE" tag="//@tag.9"/>
   <term name="메스암페타민" description="ㅇ 일명 히로뽕 또는 필로폰이라 불리며 대표적인 각성제로 중추신경을 자극, 냄새가 없고 무색 또는 백색 결정성 분말&#xD;&#xA;- 마황에서 에페드린을 추출하는 과정에 발견(일본 동경대 나가이 교수, 1893년) &#xD;&#xA;- 1941년 대일본제약주식회사가 philopon 이라는 상품명으로 판매 ㅇ 초기에는 졸음을 ?고 피로를 없애주는 각성제로 인식되어 신문광고&#xD;&#xA;ㅇ 전쟁 중에는 군인 및 군수공장 노동자 등에게 복용&#xD;&#xA;ㅇ 한때는 대만에서 원료공급, 한국에서 생산, 일본에서 사용하여 white-t&#xD;&#xA;iangle이라고도 불렸음" physicalName="MTPHM" physicalDescription="METHAMPHETAMINE" tag="//@tag.37"/>
-  <term name="메시지" description="어떤 사실을 알리거나 주장하거나 경고하기 위하여 보내는 전언(傳言)." physicalName="MSSAGE" physicalDescription="MESSAGE" tag="//@tag.9"/>
   <term name="메신저" description="인터넷에서 실시간으로 문자와 데이터를 주고받을 수 있는 소프트웨어." physicalName="MSNGR" physicalDescription="MESSENGER" tag="//@tag.9"/>
   <term name="메이저" description="큰 것을 뜻 함&#xD;&#xA;문서버전번호의 큰 번호를 의미" physicalName="MJR" physicalDescription="MAJOR" tag="//@tag.1"/>
   <term name="메인" description="주되고 중요함" physicalName="MAIN" physicalDescription="MAIN" tag="//@tag.9"/>
@@ -14210,6 +14208,8 @@
   <term name="경사각" description="어떤 직선이나 평면이 수평면과 이룬 각도" physicalName="PA" physicalDescription="Pantoscopic Angle" tag="//@tag.362"/>
   <term name="안면각" description="[같은 말] 얼굴각(귓구멍과 콧구멍을 잇는 선이 이마의 한가운데서 위턱에 그은 선과 이루는 각)" physicalName="FFA" physicalDescription="the facial angle" tag="//@tag.362"/>
   <term name="각막정점간거리" description="각막정점간 거리" physicalName="CVD" physicalDescription="Cornea vertax Distance" tag="//@tag.362"/>
+  <term name="시작" description="범위의 시작 약" physicalName="STR" physicalDescription="Start" tag="//@tag.362"/>
+  <term name="메시지" description="메세지의 유사어" physicalName="MSG" physicalDescription="MESSAGE"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
