@@ -9810,7 +9810,7 @@
   <term name="자금수입" description="資金收入&#xA; [법률정의] (사학기관 재무・회계 규칙에 대한 특례규칙) 자금의 증가." physicalName="CPNCM" physicalDescription="CAPITAL INCOME" tag="//@tag.173"/>
   <term name="자금예산" description="資金豫算&#xA; [법률정의] (사학기관 재무・회계 규칙에 대한 특례규칙) 1회계연도의 모든 자금수입의 원천과 모든 자금지출의 용도를 명시한 자금수지예정계산서." physicalName="CPTALBUDGET" physicalDescription="CAPITAL BUDGET" tag="//@tag.173"/>
   <term name="자금지원" description="資金支援&#xA; [법률정의] (수산업협동조합의구조개선에관한법률;농업협동조합의구조개선에관한법률) 관리기관이 기금의 부담으로 부실조합 또는 부실우려조합(이하 &quot;부실조합등&quot;이라 한다)에 대하여 재무구조의 개선을 위하여 다음 각목에 해당하는 지원을 하는 것. 가. 출연 또는 자산의 매입 나. 채무의 보증 또는 인수 다. 자금의 대출&#xA;(예금자보호법) 제3조의 규정에 의하여 설립된 예금보험공사가 제24조제1항의 규정에 의한 예금보험기금(이하 &quot;예금보험기금&quot;이라 한다) 또는 제26조의3제1항의 규정에 의한 예금보험기금채권상환기금(이하 &quot;상환기금&quot;이라 한다)의 부담으로 제공하는 다음 각목의 것. 가. 자금의 대출 또는 예치 나. 자산의 매수 다. 채무의 보증 또는 인수 라. 출자 또는 출연" physicalName="SPRFND" physicalDescription="SUPPORTING FUND" tag="//@tag.227"/>
-  <term name="자금지출" description="資金支出&#xA; [법률정의] (사학기관 재무・회계 규칙에 대한 특례규칙) 자금의 감소." physicalName="CPTALEXPNDTR" physicalDescription="CAPITAL EXPENDITURE" tag="//@tag.173"/>
+  <term name="자동납부" description="資金支出&#xA; [법률정의] (사학기관 재무・회계 규칙에 대한 특례규칙) 자금의 감소." physicalName="CPTALEXPNDTR" physicalDescription="CAPITAL EXPENDITURE" tag="//@tag.173"/>
   <term name="자급" description="自給&#xA; 자기에게 필요한 물자를 스스로 마련하여 충당함" physicalName="SLFSPL" physicalDescription="SELF SUPPLY" tag="//@tag.9"/>
   <term name="자기" description="自己&#xA; 어떤 일에 직접 관계가 있거나 해당되는 사람." physicalName="SELF" physicalDescription="SELF" tag="//@tag.9"/>
   <term name="자기개발" description="自己開發&#xA; 본인의 기술이나 능력을 발전시킴" physicalName="SFVLP" physicalDescription="SELF DEVELOPMENT" tag="//@tag.9"/>
@@ -9820,7 +9820,7 @@
   <term name="자기자본" description="自己資本&#xA; [법률정의] (종합금융회사에관한법률) 국제결제은행의 기준에 따른 기본자본과 보완자본의 합계액을 말하며,그 구체적 범위에 대하여는 대통령령이 정하는 바에 따라 금융감독위원회가 정한다.&#xA;(은행법;주택저당채권유동화회사법) 국제결제은행의 기준에 따른 기본자본과 보완자본의 합계액.&#xA;(보험업법) 납입자본금・자본잉여금 및 이익잉여금 그 밖에 이에 준하는 것(자본조정을 제외한다)으로서 대통령령이 정하는 항목의 합계액에서 영업권 그 밖에 이에 준하는 것으로서 대통령령이 정하는 항목의 합계액을 차감한 것.&#xA;(신용협동조합법;상호저축은행법) 자본금・적립금 기타 잉여금등의 합계액으로서 대통령령이 정하는 금액." physicalName="ECPTL" physicalDescription="EQUITY CAPITAL" tag="//@tag.51"/>
   <term name="자기주식" description="自己株式&#xA; 주식회사가 양수(讓受)하였거나 질권을 행사할 목적으로 받은 자사발행 주식." physicalName="TESSTK" physicalDescription="TREASURY STOCK" tag="//@tag.9"/>
   <term name="자녀" description="子女&#xA; 아들과 딸을 통틀어 이르는 말." physicalName="CHLDRN" physicalDescription="CHILDREN" tag="//@tag.55"/>
-  <term name="자동" description="自動&#xA; 기계나 설비 따위가 자체 내에 있는 일정한 장치의 작용에 의하여 스스로 작동함." physicalName="ATMC" physicalDescription="AUTOMATIC" tag="//@tag.9"/>
+  <term name="자동" description="自動&#xA; 기계나 설비 따위가 자체 내에 있는 일정한 장치의 작용에 의하여 스스로 작동함." physicalName="AUTO" physicalDescription="AUTOMATIC" tag="//@tag.9"/>
   <term name="자동납부" description="自動納付&#xA; 통장이나 카드를 통해 일정일에 자동으로 납입되는 것" physicalName="ATMCPAY" physicalDescription="AUTOMATIC PAYMENT" tag="//@tag.9"/>
   <term name="자동수출제도" description="수출신고된 물품 중 자동수리되는 경우" physicalName="AEXPSYS" physicalDescription="AUTOMATED EXPORT SYSTEM" tag="//@tag.26"/>
   <term name="자동이체" description="自動移替&#xA; 공공요금・급여・연금 따위의 지급을 위탁받은 은행, 우체국 등이 소정일에 지급인 계좌에서 예금을 자동적으로 출금하여 수취인 계좌에 대체하는 제도." physicalName="ATCNG" physicalDescription="AUTOMATIC EXCHANGE" tag="//@tag.9"/>
