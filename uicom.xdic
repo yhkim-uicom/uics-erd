@@ -56,7 +56,7 @@
   <term name="권한" description="어떤 사람이나 기관의 권리나 권력이 미치는 범위." physicalName="AUTHOR" physicalDescription="AUTHORITY" tag="//@tag.82"/>
   <term name="규격" description="일정한 규정에 들어맞는 격식 또는 공업 제품 등의 품질이나 치수・모양 등에 대한 일정한 표준" physicalName="STNDRD" physicalDescription="STANDARD" tag="//@tag.101"/>
   <term name="그리드명" description="좌표의 이름" physicalName="GRIDNAME" physicalDescription="" tag="//@tag.363"/>
-  <term name="금액" description="돈의 액수" physicalName="AMOUNT" physicalDescription="AMOUNT" tag="//@tag.69"/>
+  <term name="금액" description="돈의 액수" physicalName="AMT" physicalDescription="AMOUNT" tag="//@tag.69"/>
   <term name="금액합계" description="돈의 액수를 한데 합하여 계산함" physicalName="PA_TOTAL" physicalDescription="" tag="//@tag.363"/>
   <term name="기간금액" description="일정한 어느 시기부터 다른 어느 시기까지의 돈의 액수" physicalName="PERIOD_AMT" physicalDescription="" tag="//@tag.363"/>
   <term name="기간임대료" description="일정한 어느 시기부터 다른 어느 시기까지 남에게 물건이나 건물 따위를 빌려준 대가로 받는 돈" physicalName="TERM_RENTAL" physicalDescription="" tag="//@tag.363"/>
@@ -14210,6 +14210,7 @@
   <term name="각막정점간거리" description="각막정점간 거리" physicalName="CVD" physicalDescription="Cornea vertax Distance" tag="//@tag.362"/>
   <term name="시작" description="범위의 시작 약" physicalName="STR" physicalDescription="Start" tag="//@tag.362"/>
   <term name="메시지" description="메세지의 유사어" physicalName="MSG" physicalDescription="MESSAGE"/>
+  <term name="검안" description="검안, 시력 검사" physicalName="OPTMT" physicalDescription="OPTOMETRY" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
