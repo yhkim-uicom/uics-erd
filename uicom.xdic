@@ -6424,7 +6424,7 @@
   <term name="생산자단체" description="生産者團體&#xA; [법률정의] (농산물품질관리법) 농업협동조합법 제2조의 규정에 의한 조합 및 중앙회, 산림조합법 제2조의 규정에 의한 조합 및 중앙회 그 밖의 농림부령이 정하는 단체.&#xA;(자유무역협정체결에따른농어업인등의지원에관한특별법) 농업・농촌기본법 제3조제4호의 규정에 의한 생산자단체 및 수산업협동조합법 제2조의 규정에 의한 수산업협동조합.&#xA;(농업・농촌기본법) 농업생산력의 증진과 농업인의 권익보호를 위한 농업인의 자주적인 조직으로서 대통령령이 정하는 단체.&#xA;&quot;(농산물가공산업 육성법) 농업협동조합법 제2조의 규정에 의한 조합 및 중앙회, 산림조합법 제2조의 규정에 의한 조합 및 중앙회 기타 농림부령이 정하는 단체. &#xA;4. &quot;농산물가공품&quot;(이하 &quot;가공품&quot;이라 한다)이라 함은 농산물을 원료 또는 재료(이하 &quot;가공원료&quot;라 한다)로 하여 제조・가공한 가공식품・전통식품 및 민예품. &#xA;5. &quot;농산물가공산업&quot;(이하 &quot;가공산업&quot;이라 한다)이라 함은 제4호의 가공품을 생산하는 업.&quot;&#xA;(인삼산업법) 농업협동조합법에 의한 인삼관련 품목조합(이하 &quot;조합&quot;이라 한다) 및 농업협동조합중앙회(이하 &quot;중앙회&quot;라 한다).&#xA;(수산물품질관리법) 수산업협동조합법에 의한 조합 및 중앙회와 그 밖의 해양수산부령이 정하는 단체." physicalName="PRDCORGN" physicalDescription="PRODUCER ORGANIZATION" tag="//@tag.198"/>
   <term name="생산지원비용" description="수입물품의 생산 또는 수출판매와 관련하여 구매자가 무료 또는 인하된 가격으로 직접 또는 간접으로 물품이나 용역을 공급하는 경우에 그 가격 또는 인하차액" physicalName="RPAEXP" physicalDescription="RELATING PRODUCTION ASSISTS EXPENCES" tag="//@tag.26"/>
   <term name="생산품" description="生産品&#xA; 생산되는 물품." physicalName="PRODUCT" physicalDescription="PRODUCT" tag="//@tag.9"/>
-  <term name="생성" description="生成&#xA; 사물이 생겨남, 또는 생겨 이루어지게 함" physicalName="CREAT" physicalDescription="CREATION" tag="//@tag.9"/>
+  <term name="생성" description="生成&#xA; 사물이 생겨남, 또는 생겨 이루어지게 함" physicalName="CREATE" physicalDescription="CREATION" tag="//@tag.9"/>
   <term name="생성자" description="이전에 없었던 어떤 사물이나 성질을 새롭게 만든 사람." physicalName="CRTR" physicalDescription="CREATOR" tag="//@tag.9"/>
   <term name="생수" description="생수(生水)[명사]\n1.끓이거나 소독하거나 하지 않은 맑은 샘물. \n2.☞생명수(生命水)." physicalName="BOTLW" physicalDescription="BOTTLED WATER" tag="//@tag.9"/>
   <term name="생식" description="生殖&#xA; 생물이 자기와 닮은 개체를 만들어 종족을 유지함. 또는 그런 현상." physicalName="PRCRTN" physicalDescription="PROCREATION" tag="//@tag.9"/>
@@ -14211,6 +14211,7 @@
   <term name="시작" description="범위의 시작 약" physicalName="STR" physicalDescription="Start" tag="//@tag.362"/>
   <term name="메시지" description="메세지의 유사어" physicalName="MSG" physicalDescription="MESSAGE"/>
   <term name="검안" description="검안, 시력 검사" physicalName="OPTMT" physicalDescription="OPTOMETRY" tag="//@tag.362"/>
+  <term name="수정회원번호" description="수정한 사람의 회원번호" physicalName="UPDATE_MBER_NO" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
