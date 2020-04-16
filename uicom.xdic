@@ -9348,7 +9348,7 @@
   <term name="이면" description="겉으로 나타나거나 눈에 보이지 않는 부분." physicalName="OTHSD" physicalDescription="OTHER SIDE" tag="//@tag.9"/>
   <term name="이모티콘" description="전자메일이나 유즈넷 등의 텍스트 기반의 인터넷 서비스에 주로 사용되는 기호로서 얼굴 표정을 뜻함" physicalName="EMTCN" physicalDescription="EMOTICON" tag="//@tag.9"/>
   <term name="이물질" description="이물(異物). 정상적이 아닌 다른 물질." physicalName="ALNSBT" physicalDescription="ALIEN SUBSTANCE" tag="//@tag.9"/>
-  <term name="이미지" description="어떤 기술 수단에 의해 2차원 또는 3차원의 화면에 재생 및 표시된 시각 정보" physicalName="IMAGE" physicalDescription="IMAGE" tag="//@tag.9"/>
+  <term name="이미지" description="어떤 기술 수단에 의해 2차원 또는 3차원의 화면에 재생 및 표시된 시각 정보" physicalName="IMG" physicalDescription="IMAGE" tag="//@tag.9"/>
   <term name="이미지ID" description="주민등록원장관리 시스템에서 사용하는 이미지ID에 해당하는 컬럼명" physicalName="IMGID" physicalDescription="IMAGE IDENTIFICATION" tag="//@tag.138"/>
   <term name="이미지목록" description="주민등록원장관리 시스템에서 사용하는 이미지목록에 해당하는 테이블명" physicalName="RMSTNIMGINFO" physicalDescription="RMST NORMAL IMAGE INFORMATION" tag="//@tag.138"/>
   <term name="이미지통합전략" description="법인조직','단체집합적'이라는 의미의 Co&#xD;&#xA;po&#xD;&#xA;ate와 '주체성','동일성'이라는 의미의 Identity가 합쳐진 복합적 개념을 갖는 말로써 우리청에 요구되는 이미지를 의도적,계획적,전략적으로 만들어 조직 대내외에 최선의 조직경영환경을 구축하려는 생각과 기법" physicalName="CORIDNT" physicalDescription="CORPORATE IDENTITY" tag="//@tag.26"/>
