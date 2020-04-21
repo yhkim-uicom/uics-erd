@@ -5284,7 +5284,7 @@
   <term name="별정통신사업" description="기간통신사업자의 전기통신회선설비를 이용하여 기간통신역무를 제공하는 사업" physicalName="SCTS" physicalDescription="SPECIAL CATEGORY TELECOMMUNICATIONS SERVICE" tag="//@tag.9"/>
   <term name="별지" description="別紙&#xA; 서류나 편지 등에 따로 적어 덧붙이는 종이쪽" physicalName="ENCLSR" physicalDescription="ENCLOSURE" tag="//@tag.9"/>
   <term name="별첨" description="別添&#xA; 서류 따위를 따로 덧붙임." physicalName="ATTAC" physicalDescription="ATTACHING" tag="//@tag.9"/>
-  <term name="별칭" description="別稱&#xA; 달리 부르는 이름." physicalName="NCM" physicalDescription="NICK NAME" tag="//@tag.9"/>
+  <term name="별칭" description="別稱&#xA; 달리 부르는 이름." physicalName="ALIAS" physicalDescription="ALIAS" tag="//@tag.9"/>
   <term name="별표" description="법제처 등 외부 법령 서비스(일반 웹서비스)로부터 입수되는 법령정보의 별지,별표 및 기타 관련 서식 모두를 포함하는 정보" physicalName="ATTLIST" physicalDescription="ATTACHLIST" tag="//@tag.62"/>
   <term name="병" description="病&#xA; 생물체의 전신이나 일부분에 이상이 생겨 정상적 활동이 이루어지지 않아 괴로움을 느끼게 되는 현상." physicalName="SICKNS" physicalDescription="SICKNESS" tag="//@tag.150"/>
   <term name="병과" description="兵科&#xA; 보병, 포병, 공병 따위로 군인이나 부대를 그 임무에 따라 나눔. 또는 그 임무." physicalName="BNCTY" physicalDescription="BRANCH OF MILITARY" tag="//@tag.258"/>
