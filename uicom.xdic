@@ -293,7 +293,7 @@
   <term name="예금주" description="預金主&#xA; 은행 등의 금융 기관에 돈을 맡긴 사람" physicalName="DPSTR" physicalDescription="DEPOSITOR" tag="//@tag.38"/>
   <term name="예정금액" description="미리 정하거나 예상한 돈의 액수" physicalName="EXPT_AMT" physicalDescription="" tag="//@tag.363"/>
   <term name="예정합계" description="미리 정하거나 예상한 돈의 액수를 한데 합하여 계산함" physicalName="EXPT_TOT" physicalDescription="" tag="//@tag.363"/>
-  <term name="옵션" description="매매 선택권 거래. 곧 일정 기간 안에 특정 상품을 일정한 가격으로 매매하는 권리를 거래하는 것을 이른다" physicalName="OPTION" physicalDescription="OPTION" tag="//@tag.9"/>
+  <term name="옵션" description="매매 선택권 거래. 곧 일정 기간 안에 특정 상품을 일정한 가격으로 매매하는 권리를 거래하는 것을 이른다" physicalName="OPT" physicalDescription="OPTION" tag="//@tag.9"/>
   <term name="옵션가격" description="옵션 매수자가 매도자에게 지불하는 주당 가격" physicalName="OPT_SALE_PRICE" physicalDescription="" tag="//@tag.363"/>
   <term name="옵션값" description="일정 기간 내에 특정 가격으로 물건을 사고팔기 위하여 정한 액수" physicalName="OPTVAL" physicalDescription="" tag="//@tag.363"/>
   <term name="옵션명" description="일정 기간 내에 특정 가격으로 상품, 주식, 채권 등을 팔거나 또는 살 수 있는 권리의이름" physicalName="OPTNM" physicalDescription="" tag="//@tag.363"/>
