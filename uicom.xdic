@@ -14215,6 +14215,7 @@
   <term name="해시태그" description="특정 핵심어 앞에 ‘#’ 기호를 붙여 써서 식별을 용이하게 하는 메타데이터 태그의 한 형태." physicalName="HASHTAG" tag="//@tag.363"/>
   <term name="제조국" description="물품을 만든 나라" physicalName="MNFCT_CNTRY"/>
   <term name="AS기간" description="AS를 신청할 수 있는 기간" physicalName="AS_PD"/>
+  <term name="충분" description="‘충분하다(모자람이 없이 넉넉하다)’의 어근." physicalName="ENGH" physicalDescription="ENOUGH" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
