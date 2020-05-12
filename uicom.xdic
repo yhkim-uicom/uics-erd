@@ -233,7 +233,7 @@
   <term name="쇼핑몰브랜드" description="쇼핑몰의 상표" physicalName="SHOP_BRAND" physicalDescription="" tag="//@tag.363"/>
   <term name="쇼핑몰상세정보순번" description="쇼핑몰의 낱낱이 구체적이고 분명한 정보에 순서대로 매겨진 번호" physicalName="SHOP_SNO" physicalDescription="" tag="//@tag.363"/>
   <term name="쇼핑몰상품번호" description="쇼핑몰의 사고파는 물건이나 재화에 매겨진 번호" physicalName="SHOP_GOODSNO" physicalDescription="" tag="//@tag.363"/>
-  <term name="쇼핑몰안전재고" description="쇼핑몰의 부족하지 않도록 관리하여 확보해 놓은 재고" physicalName="SHOP_SAFE_QTY" physicalDescription="" tag="//@tag.363"/>
+  <term name="쇼핑몰안전재고" description="쇼핑몰의 부족하지 않도록 관리하여 확보해 놓은 재고" physicalName="SHOP_SAFE_STOCK" physicalDescription="" tag="//@tag.363"/>
   <term name="쇼핑몰옵션" description="쇼핑몰의 기호에 따라 별도로 선택하여 부착할 수 있는 장치나 부품" physicalName="SHOP_OPT" physicalDescription="" tag="//@tag.363"/>
   <term name="쇼핑몰옵션순번" description="기호에 따라 별도로 선택하여 부착할 수 있는 장치나 부품에 순서대로 매겨진 번호" physicalName="SHOP_SEQ" physicalDescription="" tag="//@tag.363"/>
   <term name="쇼핑몰주문번호" description="쇼핑몰의 어떤 일에 대해 일정한 방식으로 해 줄 것을 요구함에 부여된 번호" physicalName="SHOP_ORDNO" physicalDescription="" tag="//@tag.363"/>
@@ -357,8 +357,8 @@
   <term name="잔액표시" description="쓰고 남은 돈의 액수를 알리는 문구나 기호 따위를 외부에 나타내 보임" physicalName="BALANCE_MA" physicalDescription="" tag="//@tag.363"/>
   <term name="재고" description="재고는 기업, 상점 등이 가공 및 판매하기 위해서 보유하는 원재료, 재공품, 제품 또는 상품 등의 재화를 말함" physicalName="STOCK" physicalDescription="STOCK" tag="//@tag.362"/>
   <term name="재고량" description="아직 팔리지 아니하고 창고에 쌓여 있는 물품의 분량" physicalName="STOCK_NUM" physicalDescription="" tag="//@tag.363"/>
-  <term name="재고사용" description="아직 팔리지 아니하고 창고에 쌓여 있는 물품을 필요로 하거나 소용이 되는 곳에 씀" physicalName="INV_USE" physicalDescription="" tag="//@tag.363"/>
-  <term name="재고수량" description="아직 팔리지 아니하고 창고에 쌓여 있는 물품의 양" physicalName="INV_QTY" physicalDescription="" tag="//@tag.363"/>
+  <term name="재고사용" description="아직 팔리지 아니하고 창고에 쌓여 있는 물품을 필요로 하거나 소용이 되는 곳에 씀" physicalName="STOCK_USE" physicalDescription="" tag="//@tag.363"/>
+  <term name="재고수량" description="아직 팔리지 아니하고 창고에 쌓여 있는 물품의 양" physicalName="STOCK_QY" physicalDescription="" tag="//@tag.363"/>
   <term name="재고합계" description="아직 상점에 내놓지 않았거나 팔다가 남아서 창고에 남아 있게 된 물품을 한데 합하여 계산함" physicalName="TOT_QTY" physicalDescription="" tag="//@tag.363"/>
   <term name="적립금" description="은행이나 회사가 이익금의 일부를 장래에 대비하여 자체적으로 보관하여 두는 돈" physicalName="RSRVMNEY" physicalDescription="RESERVE" tag="//@tag.200"/>
   <term name="적요" description="중요한 부분을 뽑아내어 적음, 또는 그렇게 적어 놓은 것" physicalName="SUMRY" physicalDescription="SUMMARY" tag="//@tag.9"/>
@@ -7076,7 +7076,7 @@
   <term name="쇄신" description="刷新&#xA; 나쁜 폐단이나 묵은 것을 버리고 새롭게 함." physicalName="RNVT" physicalDescription="RENOVATION" tag="//@tag.9"/>
   <term name="쇠고기" description="소의 고기." physicalName="BEEF" physicalDescription="BEEF" tag="//@tag.56"/>
   <term name="쇼핑" description="물건을 사러 백화점이나 상점에 가는 일." physicalName="SHOPNG" physicalDescription="SHOPPING" tag="//@tag.9"/>
-  <term name="쇼핑몰" description="인터넷 상의 상거래 공간." physicalName="SOPMAL" physicalDescription="SHOPPING MALL" tag="//@tag.9"/>
+  <term name="쇼핑몰" description="인터넷 상의 상거래 공간." physicalName="SHOP" physicalDescription="SHOPPING MALL" tag="//@tag.9"/>
   <term name="수" description="數&#xA; 셀 수 있는 사물의 많고 적음" physicalName="CO" physicalDescription="COUNT" tag="//@tag.9"/>
   <term name="수가" description="酬價&#xA; 의료보험 적용가격" physicalName="MCCHRG" physicalDescription="MEDICAL CHARGE" tag="//@tag.9"/>
   <term name="수감기관" description="收監機關&#xA; [법률정의] (공공감사기준) 제3조 각 호의 규정에 의한 공공감사를 받는 기관 및 부서." physicalName="ISNNT" physicalDescription="IMPRISONMENT INSTITUTION" tag="//@tag.9"/>
@@ -14212,6 +14212,9 @@
   <term name="메시지" description="메세지의 유사어" physicalName="MSG" physicalDescription="MESSAGE"/>
   <term name="검안" description="검안, 시력 검사" physicalName="OPTMT" physicalDescription="OPTOMETRY" tag="//@tag.362"/>
   <term name="수정회원번호" description="수정한 사람의 회원번호" physicalName="UPDATE_MBER_NO" tag="//@tag.362"/>
+  <term name="해시태그" description="특정 핵심어 앞에 ‘#’ 기호를 붙여 써서 식별을 용이하게 하는 메타데이터 태그의 한 형태." physicalName="HASHTAG" tag="//@tag.363"/>
+  <term name="제조국" description="물품을 만든 나라" physicalName="MNFCT_CNTRY"/>
+  <term name="AS기간" description="AS를 신청할 수 있는 기간" physicalName="AS_PD"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
