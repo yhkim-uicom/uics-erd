@@ -330,11 +330,9 @@
   <term name="임대상품코드" description="일정한 금액의 돈을 받고 자기 물건을 다른 사람에게 빌려주는 물건에 부여된 코드" physicalName="RENT_CODE" physicalDescription="" tag="//@tag.363"/>
   <term name="입고단가" description="창고에 넣은 물품 한 단위마다의 값" physicalName="RCV_UCOST" physicalDescription="" tag="//@tag.363"/>
   <term name="입고량" description="창고에 넣은 물품의 양" physicalName="STOCK_AMO" physicalDescription="" tag="//@tag.363"/>
-  <term name="입고수량" description="창고에 넣은 물품의 양" physicalName="IN_QTY" physicalDescription="" tag="//@tag.363"/>
   <term name="입고액" description="물건을 창고에 넣기위한 돈의 액수" physicalName="IN_AMT" physicalDescription="" tag="//@tag.363"/>
   <term name="입고예정시작일" description="물건을 창고에 넣을 예정날짜의 시작일" physicalName="IN_EXPT_DATE_S" physicalDescription="" tag="//@tag.363"/>
   <term name="입고예정종료일" description="물건을 창고에 넣을 예정날짜의 종료일" physicalName="IN_EXPT_DATE_E" physicalDescription="" tag="//@tag.363"/>
-  <term name="입고일자" description="물건을 창고에 넣은 날짜" physicalName="IN_DATE" physicalDescription="" tag="//@tag.363"/>
   <term name="입고처" description="물건을 넣는 장소" physicalName="STRPLC" physicalDescription="STORE PLACE" tag="//@tag.28"/>
   <term name="입금액" description="은행 따위에 넣은 돈의 액수" physicalName="BANK_IN" physicalDescription="" tag="//@tag.363"/>
   <term name="입금전표" description="은행 등에서, 입금 상황을 간단히 적는 쪽지" physicalName="COLLECT_NUM" physicalDescription="" tag="//@tag.363"/>
