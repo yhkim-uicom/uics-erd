@@ -246,7 +246,7 @@
   <term name="수수료율" description="수수료를 매기는 데 적용하는 비율" physicalName="CARD_PS" physicalDescription="" tag="//@tag.363"/>
   <term name="수신전화번호" description="받는 전화의 번호" physicalName="REC_CALL" physicalDescription="" tag="//@tag.363"/>
   <term name="수정사유구분" description="기존의 잘못된 것을 고쳐서 바로잡은 이유와 까닭을 일정한 기준에 따라 전체를 몇 개로 나누어서 가름" physicalName="REVISE_CAUSE" physicalDescription="" tag="//@tag.363"/>
-  <term name="수정일시" description="수정을 한 날짜" physicalName="MODIFYDATE" physicalDescription="" tag="//@tag.363"/>
+  <term name="수정일시" description="수정을 한 날짜" physicalName="UPDATE_DT" physicalDescription="" tag="//@tag.363"/>
   <term name="수정자" description="수정한 사람" physicalName="UPDUSR" physicalDescription="UPDATE USER" tag="//@tag.9"/>
   <term name="수정자ID" description="수정한 사람의 ID" physicalName="UPDATE_ID" physicalDescription="" tag="//@tag.363"/>
   <term name="수취구분" description="돈이나 물건을 거두어들임에 있어서 일정한 기준에 따라 전체를 몇 개로 나누어서 가름" physicalName="RECEIPT_GUBN" physicalDescription="" tag="//@tag.363"/>
