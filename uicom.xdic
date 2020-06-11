@@ -14216,6 +14216,7 @@
   <term name="충분" description="‘충분하다(모자람이 없이 넉넉하다)’의 어근." physicalName="ENGH" physicalDescription="ENOUGH" tag="//@tag.362"/>
   <term name="원톤" physicalName="ONETON" tag="//@tag.362"/>
   <term name="투톤" physicalName="TWOTON" tag="//@tag.362"/>
+  <term name="AS" description="애프터서비스" physicalName="AS" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
