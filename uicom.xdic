@@ -5484,7 +5484,6 @@
   <term name="본번" description="지번의 앞부분을 본번이라한다" physicalName="MNNM" physicalDescription="ORIGIN NO" tag="//@tag.137"/>
   <term name="본봉" description="本俸&#xA; 임금(賃金 )을 구성하는 요소 가운데, 여러 가지 수당을 제외한 급료. 여러 가지 수당, 상여금, 퇴직금 따위의 산정 기준이 된다." physicalName="BSLRY" physicalDescription="BASIC SALARY" tag="//@tag.9"/>
   <term name="본부" description="本部&#xA; 각종 관서나 기관・단체의 중심이 되는 조직. 또는 그 조직이 있는 곳." physicalName="HDQRTRS" physicalDescription="HEADQUARTERS" tag="//@tag.9"/>
-  <term name="본사" description="本社&#xA; 주가 되는 회사를 지사(支社)에 상대하여 이르는 말." physicalName="HEDOFC" physicalDescription="HEAD OFFICE" tag="//@tag.9"/>
   <term name="본서" description="(지서?분서 등에 대하여) 본부가 되는 관서." physicalName="PRNOFC" physicalDescription="PRINCIPAL OFFICE" tag="//@tag.9"/>
   <term name="본선" description="本線&#xA; 도로, 철도, 전신 따위에서 원줄기가 되는 주된 선(線)을 지선(支線)에 상대하여 이르는 말&#xA;[법률정의] (철도차량운전규칙) 열차의 운전에 상용하는 선로." physicalName="MLN" physicalDescription="MAIN LINE" tag="//@tag.231"/>
   <term name="본선적부도" description="선박본선에 적재된 화물의 명세" physicalName="BAYPLAN" physicalDescription="BAYPLAN" tag="//@tag.9"/>
@@ -14218,6 +14217,7 @@
   <term name="투톤" physicalName="TWOTON" tag="//@tag.362"/>
   <term name="AS" description="애프터서비스" physicalName="AS" tag="//@tag.362"/>
   <term name="출고준비서" description="출고준비서" physicalName="DLVY_PRPARE" tag="//@tag.363"/>
+  <term name="본사" description="본사" physicalName="HEAD_OFFICE" physicalDescription="본사" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
