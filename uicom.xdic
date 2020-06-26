@@ -14218,6 +14218,7 @@
   <term name="AS" description="애프터서비스" physicalName="AS" tag="//@tag.362"/>
   <term name="출고준비서" description="출고준비서" physicalName="DLVY_PRPARE" tag="//@tag.363"/>
   <term name="본사" description="본사" physicalName="HEAD_OFFICE" physicalDescription="본사" tag="//@tag.362"/>
+  <term name="옵션" description="옵션" physicalName="OPTN" physicalDescription="옵션" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
