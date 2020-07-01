@@ -487,7 +487,7 @@
   <term name="환경변수명" description="한 가지 이상의 물리적ㆍ화학적 특성을 가진 가변적 요인의 이름" physicalName="ENVNAME" physicalDescription="" tag="//@tag.363"/>
   <term name="회계구분" description="자치단체마다 특정한 수입과 지출을 분류하는 기준" physicalName="FSSE" physicalDescription="FISCAL SECTION" tag="//@tag.24"/>
   <term name="회계년월" description="개인이나 기업 따위의 경제 활동 상황을 일정한 계산 방법으로 기록하고 정보화한 연도와 달" physicalName="ACC_DATE" physicalDescription="" tag="//@tag.363"/>
-  <term name="회사명" description="회사의 이름" physicalName="CMP_NM" physicalDescription="" tag="//@tag.363"/>
+  <term name="회사명" description="회사의 이름" physicalName="CMPNY_NM" physicalDescription="" tag="//@tag.363"/>
   <term name="휴대전화" description="간편하게 휴대하고 다니면서 말소리를 전파나 전류로 바꾸어 다른 곳으로 보내고, 다른 곳에서 온 전파나 전류를 다시 말소리로 바꾸어 통화를 하게 하는 장치" physicalName="MOBLPHON" physicalDescription="MOBILE PHONE" tag="//@tag.108"/>
   <term name="1" description="숫자 1" physicalName="ONE" physicalDescription="ONE" tag="//@tag.0"/>
   <term name="10월" description="10월" physicalName="OCT" physicalDescription="OCTOBER" tag="//@tag.1"/>
