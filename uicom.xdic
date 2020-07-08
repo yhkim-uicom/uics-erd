@@ -372,7 +372,7 @@
   <term name="종목" description="여러 가지 종류에 따라 나눈 항목" physicalName="ITEM" physicalDescription="ITEM" tag="//@tag.9"/>
   <term name="주문번호" description="어떤 일에 대해 일정한 방식으로 해 줄 것을 요구한 일에 부여한 번호" physicalName="ORDER_NO" physicalDescription="" tag="//@tag.363"/>
   <term name="주문상태" description="어떤 일에 대해 일정한 방식으로 해 줄 것을 요구한 일의 상태" physicalName="ORD_STATE" physicalDescription="" tag="//@tag.363"/>
-  <term name="주문서번호" description="물품의 생산, 수송이나 서비스의 제공을 수요자가 공급자에게 신청하고자 여러 가지 필요한 사항을 적은 서면의 번호" physicalName="ORD_NUM" physicalDescription="" tag="//@tag.363"/>
+  <term name="주문서번호" description="물품의 생산, 수송이나 서비스의 제공을 수요자가 공급자에게 신청하고자 여러 가지 필요한 사항을 적은 서면의 번호" physicalName="ORD_NO" physicalDescription="" tag="//@tag.363"/>
   <term name="주문서번호내의SEQ" description="물품의 생산, 수송이나 서비스의 제공을 수요자가 공급자에게 신청하고자 여러 가지 필요한 사항을 적은 서면의 번호내의 시퀀스" physicalName="ORD_NUM_SEQ" physicalDescription="" tag="//@tag.363"/>
   <term name="주문수량" description="어떤 일에 대해 일정한 방식으로 해 줄 것을 요구한 일에 양" physicalName="ORD_QTY" physicalDescription="" tag="//@tag.363"/>
   <term name="주문수량합" description="어떤 일에 대해 일정한 방식으로 해 줄 것을 요구한 일에 양의 합" physicalName="ORD_SUM_QTY" physicalDescription="" tag="//@tag.363"/>
