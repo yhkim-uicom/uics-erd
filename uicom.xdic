@@ -82,8 +82,8 @@
   <term name="당일출금" description="일이 있는 바로 그날 돈을 내어 씀" physicalName="TODAY_WITHDRAW" physicalDescription="" tag="//@tag.363"/>
   <term name="대체상품코드" description="어느 특정 제품과 직접적으로 경쟁하지는 않지만, 그 특정 업체의 판매 수익에 영향을 미치는 상품에 부여된 코드" physicalName="PART_REP" physicalDescription="" tag="//@tag.363"/>
   <term name="대표번호" description="어떤 단체의 전화번호 가운데 교환대 구실을 하는 전화번호" physicalName="REP_TELNO" physicalDescription="" tag="//@tag.363"/>
-  <term name="대표자" description="여러 사람을 대표하는 사람" physicalName="RPRSNTV" physicalDescription="REPRESENTATIVE" tag="//@tag.9"/>
-  <term name="대표자명" description="여러 사람이나 단체, 지역을 대신하여 그 의사를 나타내는 사람의 이름" physicalName="REPRESENM" physicalDescription="" tag="//@tag.363"/>
+  <term name="대표자" description="여러 사람을 대표하는 사람" physicalName="RPR" physicalDescription="REPRESENTATIVE" tag="//@tag.9"/>
+  <term name="대표자명" description="여러 사람이나 단체, 지역을 대신하여 그 의사를 나타내는 사람의 이름" physicalName="RPR_NM" physicalDescription="REPRESENTATIVE_NAME" tag="//@tag.363"/>
   <term name="데이터타입" description="데이터 표현에서 정의된 방법" physicalName="DATATYPE" physicalDescription="" tag="//@tag.363"/>
   <term name="도착지" description="어떤 곳에 이르러 닿는 곳" physicalName="ALOC" physicalDescription="ARRIVING LOCATION" tag="//@tag.6"/>
   <term name="등급" description="높고 낮음이나 좋고 나쁨 따위의 차이를 여러 층으로 구분한 단계" physicalName="GRAD" physicalDescription="GRADE" tag="//@tag.248"/>
