@@ -8091,7 +8091,7 @@
   <term name="업소" description="業所&#xA; 사업을 벌이고 있는 장소." physicalName="BSSH" physicalDescription="BUSINESS ESTABLISHMENT" tag="//@tag.9"/>
   <term name="업자" description="業者&#xA; 상업,공업,서비스업 따위의 사업을 경영하고 있는 사람" physicalName="BSMN" physicalDescription="BUSINESSMAN" tag="//@tag.9"/>
   <term name="업적" description="業績&#xA; 어떤 사업이나 연구 따위에서 세운 공적." physicalName="ACHV" physicalDescription="ACHIEVEMENT" tag="//@tag.9"/>
-  <term name="업종" description="業種&#xA; 직업이나 영업의 종류." physicalName="INDUTY" physicalDescription="TYPE OF INDUSTRY" tag="//@tag.9"/>
+  <term name="업종" description="業種&#xA; 직업이나 영업의 종류." physicalName="BSNS_TY" physicalDescription="TYPE OF BUSINESS" tag="//@tag.9"/>
   <term name="업체" description="業體&#xA; 사업이나 기업의 주체." physicalName="ENTRPS" physicalDescription="ENTERPRISE" tag="//@tag.9"/>
   <term name="에그몽그룹" description="□ Egmont Goup of FIUs ㅇ 에그몽그룹은‘95.6월 미국과 벨기에의 주도로 전세계 FIU(Financial Intelligence Unit)간 협력증진을 목적으로 출범 ㅇ Egmont Goup 회원으로 가입하기 위해서는 ①혐의거래보고제도 도입, ②국내의 법 또는 규정에 의한 금융정보 보고체계 확립, ③자금세탁관련 금융정보처리기구(FIU) 설립 등의 기준을 충족하여야 하는바, ‘05.7월 현재 가입회원은 101개이며, 우리나라는 ’02.6월에 회원으로 가입 ㅇ Egmont G&#xD;&#xA;oup이라는 명칭은 제1차 회의가 개최된 벨기에의 Egmont A&#xD;&#xA;en&#xD;&#xA;e&#xD;&#xA;g Palace의 이름을 따서 정함 ㅇ 총회는 연간 1회(6월경) 개최하며, 3월, 11월경에 Egmont Committee와 Wo&#xD;&#xA;king G&#xD;&#xA;oup회의를 추가로 개최하며, 회원국 FIU들을 지원하기 위해 각종 워크샵이나 훈련세미나도 수시로 개최" physicalName="EGMGRUP" physicalDescription="EGMONT GROUP" tag="//@tag.26"/>
   <term name="에너지" description="기본적인 물리량의 하나. 물체나 물체계가 가지고 있는 일을 하는 능력을 통틀어 이르는 말.&#xA;[법률정의] (에너지이용합리화법) 연료・열 및 전기." physicalName="ENERGY" physicalDescription="ENERGY" tag="//@tag.39"/>
