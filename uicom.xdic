@@ -754,7 +754,7 @@
   <term name="가옥" description="家屋&#xA; 사람이 사는 집." physicalName="HUSE" physicalDescription="HOUSE" tag="//@tag.71"/>
   <term name="가용" description="可用&#xA; 사용할 수 있음." physicalName="USEFUL" physicalDescription="USEFULNESS" tag="//@tag.72"/>
   <term name="가을" description="한 해의 네 철 가운데 셋째 철. 여름과 겨울 사이의 계절로 입추에서 입동 전까지를 이름." physicalName="AUTUMN" physicalDescription="AUTUMN" tag="//@tag.2"/>
-  <term name="가입" description="加入&#xA; 단체나 조직 따위에 들어감." physicalName="SBSCRB" physicalDescription="SUBSCRIBE" tag="//@tag.33"/>
+  <term name="가입" description="加入&#xA; 단체나 조직 따위에 들어감." physicalName="SIGN_UP" physicalDescription="SIGN UP" tag="//@tag.33"/>
   <term name="가입금" description="加入金&#xA; 조직이나 단체 따위에 들어가거나 참가하기 위하여 내는 돈." physicalName="SRBCT" physicalDescription="SUBSCRIBE MONEY" tag="//@tag.9"/>
   <term name="가입비" description="加入費&#xA; 단체나 조직 따위에 들어갈때 내는 금액" physicalName="SRBCT" physicalDescription="SUBSCRIBE COST" tag="//@tag.9"/>
   <term name="가입수수료" description="加入手數料&#xA; 단체나 조직 따위에 들어가는데 필요한 수수료" physicalName="SSMMS" physicalDescription="SUBSCRIBE COMMISSION" tag="//@tag.9"/>
