@@ -76,7 +76,7 @@
   <term name="단위" description="길이・넓이・무게・양 등을 수치(數値)로 나타내기(재기) 위하여 계산의 기본으로 정해 놓은 기준" physicalName="UNIT" physicalDescription="UNIT" tag="//@tag.32"/>
   <term name="단위수량" description="사물의 길이, 넓이, 무게 등을 수치로 나타낼 때, 기본이 되는 기준의 양" physicalName="UNIT_QTY" physicalDescription="" tag="//@tag.363"/>
   <term name="단위형태" description="사물의 길이, 넓이, 무게 등을 수치로 나타낼 때, 기본이 되는 기준의 생김새" physicalName="UNIT_FORM" physicalDescription="" tag="//@tag.363"/>
-  <term name="담당자" description="어떤 일을 맡아서 하는 사람" physicalName="CHARGER" physicalDescription="PERSON IN CHARGE" tag="//@tag.9"/>
+  <term name="담당자" description="어떤 일을 맡아서 하는 사람" physicalName="MNGR" physicalDescription="PERSON IN MANAGER" tag="//@tag.9"/>
   <term name="담당자명" description="어떠한 일을 맡아 책임을 지는 사람의 이름" physicalName="IN_NAME" physicalDescription="" tag="//@tag.363"/>
   <term name="당일입금" description="일이 있는 바로 그날 돈이 들어오는 일" physicalName="TODAY_DEPOSIT" physicalDescription="" tag="//@tag.363"/>
   <term name="당일출금" description="일이 있는 바로 그날 돈을 내어 씀" physicalName="TODAY_WITHDRAW" physicalDescription="" tag="//@tag.363"/>
@@ -8081,8 +8081,8 @@
   <term name="업로드" description="컴퓨터 통신망을 통하여 다른 컴퓨터 시스템에 파일이나 자료를 전송하는 일." physicalName="UPLOAD" physicalDescription="UPLOAD" tag="//@tag.9"/>
   <term name="업로드자" description="컴퓨터 통신망을 통하여 다른 컴퓨터 시스템에 파일이나 자료를 전송하는 자." physicalName="UPLMN" physicalDescription="UPLOADING MAN" tag="//@tag.9"/>
   <term name="업링크" description="지상에서 위성으로 신호를 올려 보내는 것" physicalName="UPLINK" physicalDescription="UPLINK" tag="//@tag.9"/>
-  <term name="업무" description="業務&#xA; 직장 같은 곳에서 맡아서 하는 일." physicalName="JOB" physicalDescription="DUTY" tag="//@tag.9"/>
-  <term name="업무별" description="業務&#xD;&#xA; 직장 같은 곳에서 맡아서 하는 일 별" physicalName="JOBBY" physicalDescription="DUTY BY" tag="//@tag.1"/>
+  <term name="업무" description="業務&#xA; 직장 같은 곳에서 맡아서 하는 일." physicalName="TASK" physicalDescription="DUTY" tag="//@tag.9"/>
+  <term name="업무별" description="業務&#xD;&#xA; 직장 같은 곳에서 맡아서 하는 일 별" physicalName="TASKBY" physicalDescription="DUTY BY" tag="//@tag.1"/>
   <term name="업무상재해" description="業務上災害&#xA; [법률정의] (산업재해보상보험법) 업무상의 사유에 의한 근로자의 부상・질병・신체장해 또는 사망. 이 경우 업무상의 재해의 인정기준에 관하여는 노동부령으로 정한다." physicalName="DTNCFT" physicalDescription="DISASTER IN THE CONDUCT OF DUTY" tag="//@tag.70"/>
   <term name="업무아키텍처" description="기관의 비전 및 전략달성 대상인 다른 기관 및 국민에 대한 행정서비스 수행 모델을 체계적으로 정리한 것" physicalName="BA" physicalDescription="BUSINESS ARCHITECTURE" tag="//@tag.9"/>
   <term name="업무재설계" description="새로운 환경에 적합한 효율적인 업무 처리의 흐름을 만드는 것을 의미한다.BPR은 기업 또는 핵심적인 업무프로세스에 대한 근본적인 사고의 전환과 급진적인 재설계(&#xD;&#xA;edesign)를 내포하고 있다. 즉 핵심적인 프로세스를 고객 지향적으로 최적화하며, 효율성을 제고하여 기존의 것과는 완전히 다른 새로운 구조를 정립한다." physicalName="BPR" physicalDescription="BUSINESS PROCESS REENGINEERING" tag="//@tag.26"/>
