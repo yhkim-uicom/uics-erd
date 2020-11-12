@@ -394,7 +394,7 @@
   <term name="직책" description="직무(職務)상의 책임" physicalName="RSPOFC" physicalDescription="RESPONSIBILITIES OF OFFICE" tag="//@tag.9"/>
   <term name="진행사항" description="어떤 일 따위를 처리하여 나가는 때의 모습이나 형편" physicalName="APPSTATE" physicalDescription="" tag="//@tag.363"/>
   <term name="차액입금" description="차이가 나는 돈의 액수를 예금을 하거나 빚을 갚기 위하여 은행 따위에 돈을 들여놓음" physicalName="COLLECT_ADD" physicalDescription="" tag="//@tag.363"/>
-  <term name="창고명" description="물건을 저장하거나 보관하는 공간의 이름" physicalName="PLANTNM" physicalDescription="" tag="//@tag.363"/>
+  <term name="창고명" description="물건을 저장하거나 보관하는 공간의 이름" physicalName="WRHOUS_NM" physicalDescription="" tag="//@tag.363"/>
   <term name="창고작업비용" description="물건을 저장하거나 보관하는 공간에서 일정한 목적과 계획아래 어떤일을 하는데 드는 돈" physicalName="IN_STORE_WORK" physicalDescription="" tag="//@tag.363"/>
   <term name="창고코드" description="물건을 저장하거나 보관하는 공간의 코드" physicalName="PLANTCD" physicalDescription="" tag="//@tag.363"/>
   <term name="처리내용" description="사무나 사건 따위를 절차에 따라 정리하여 치르거나 마무리를 지은 내용" physicalName="PRO_DESC" physicalDescription="" tag="//@tag.363"/>
@@ -754,7 +754,7 @@
   <term name="가옥" description="家屋&#xA; 사람이 사는 집." physicalName="HUSE" physicalDescription="HOUSE" tag="//@tag.71"/>
   <term name="가용" description="可用&#xA; 사용할 수 있음." physicalName="USEFUL" physicalDescription="USEFULNESS" tag="//@tag.72"/>
   <term name="가을" description="한 해의 네 철 가운데 셋째 철. 여름과 겨울 사이의 계절로 입추에서 입동 전까지를 이름." physicalName="AUTUMN" physicalDescription="AUTUMN" tag="//@tag.2"/>
-  <term name="가입" description="加入&#xA; 단체나 조직 따위에 들어감." physicalName="SBSCRB" physicalDescription="SUBSCRIBE" tag="//@tag.33"/>
+  <term name="가입" description="加入&#xA; 단체나 조직 따위에 들어감." physicalName="SIGN_UP" physicalDescription="SIGN UP" tag="//@tag.33"/>
   <term name="가입금" description="加入金&#xA; 조직이나 단체 따위에 들어가거나 참가하기 위하여 내는 돈." physicalName="SRBCT" physicalDescription="SUBSCRIBE MONEY" tag="//@tag.9"/>
   <term name="가입비" description="加入費&#xA; 단체나 조직 따위에 들어갈때 내는 금액" physicalName="SRBCT" physicalDescription="SUBSCRIBE COST" tag="//@tag.9"/>
   <term name="가입수수료" description="加入手數料&#xA; 단체나 조직 따위에 들어가는데 필요한 수수료" physicalName="SSMMS" physicalDescription="SUBSCRIBE COMMISSION" tag="//@tag.9"/>
@@ -14221,6 +14221,12 @@
   <term name="옵션" description="옵션" physicalName="OPTN" physicalDescription="옵션" tag="//@tag.362"/>
   <term name="주문상세번호" physicalName="ORD_DTL_NO" tag="//@tag.362"/>
   <term name="반품" description="반품" physicalName="RTN" tag="//@tag.363"/>
+  <term name="입출고" description="들어오고 나감, 유의어: 수불" physicalName="IN_OUT" tag="//@tag.363"/>
+  <term name="기록" description="기록 = HISTORY = HST" physicalName="HST" tag="//@tag.363"/>
+  <term tag="//@tag.363"/>
+  <term name="제품옵션" description="제품옵션 = PRDCUT_OPTION" physicalName="PRD_OPT" tag="//@tag.363"/>
+  <term name="통화매니저" physicalName="CID" tag="//@tag.362"/>
+  <term name="" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
