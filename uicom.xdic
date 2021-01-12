@@ -3886,7 +3886,7 @@
   <term name="대통령령" description="대통령이 헌법이 부여한 권한으로 발하는 명령으로 법률과 동일한 효력을 가짐" physicalName="PREDECE" physicalDescription="PRESIDENTIAL DECREE" tag="//@tag.26"/>
   <term name="대통령비서실" description="大統領秘書室&#xA; 대통령의 원활한 국정운영을 위해 직무를 수행하는 대통령 보좌기관." physicalName="CWD" physicalDescription="OFFICE OF THE PRESIDENT" tag="//@tag.9"/>
   <term name="대통령직" description="大統領職&#xA; [법률정의] (대통령직인수에관한법률) 헌법에 의하여 대통령에게 부여된 직무." physicalName="PRSDNCY" physicalDescription="PRESIDENCY" tag="//@tag.171"/>
-  <term name="대표" description="代表&#xA; 개인이나 단체를 대신하여 그의 의사나 성질을 외부에 나타냄." physicalName="REPRSNT" physicalDescription="REPRESENTATION" tag="//@tag.9"/>
+  <term name="대표" description="代表&#xA; 개인이나 단체를 대신하여 그의 의사나 성질을 외부에 나타냄." physicalName="RPR" physicalDescription="REPRESENTATION" tag="//@tag.9"/>
   <term name="대표기록번호" description="후일에 남길 목적으로 어떤 사실을 적음. 또는 그런 글의 일련번호중 대표번호" physicalName="REPRSNTRCORDNO" physicalDescription="REPRESENTATION RCORD NUMBER" tag="//@tag.9"/>
   <term name="대표기준" description="대표가되는 기준" physicalName="REP" physicalDescription="REPRESENTATIVE" tag="//@tag.9"/>
   <term name="대표단" description="代表團&#xA; 대표하는 사람들로 이루어진 집단." physicalName="DLG" physicalDescription="DELEGATION" tag="//@tag.273"/>
