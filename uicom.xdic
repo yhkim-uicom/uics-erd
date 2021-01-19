@@ -6279,7 +6279,7 @@
   <term name="상사회사" description="商事會社&#xA; 상행위 기타 영리를 목적으로 상법에 의하여 설립된 사단법인(상169)." physicalName="CRCMY" physicalDescription="COMMERCIAL COMPANY" tag="//@tag.9"/>
   <term name="상선" description="商船&#xA; 삯을 받고 사람이나 짐을 나르는 데에 쓰는 배&#xA;[법률정의] (선박직원법 시행령) 제4호의 규정에 의한 어선이 아닌 선박." physicalName="MHTSP" physicalDescription="MERCHANT SHIP" tag="//@tag.34"/>
   <term name="상설" description="常設&#xA; 언제든지 이용할 수 있도록 설비와 시설을 갖추어 둠." physicalName="PRMESTBL" physicalDescription="PERMANENT ESTABLISHMENT" tag="//@tag.9"/>
-  <term name="상세" description="詳細&#xA; 낱낱이 자세함." physicalName="DETAIL" physicalDescription="DETAIL" tag="//@tag.9"/>
+  <term name="상세" description="詳細&#xA; 낱낱이 자세함." physicalName="DTL" physicalDescription="DETAIL" tag="//@tag.9"/>
   <term name="상세분류" description="詳細分類&#xA; 공통되는 부분을 자세하게 나눔" physicalName="DTLCLFC" physicalDescription="DETAIL CLASSIFICATION" tag="//@tag.9"/>
   <term name="상세유형" description="詳細類型&#xA; 자세한 종류" physicalName="DLYP" physicalDescription="DETAIL TYPE" tag="//@tag.9"/>
   <term name="상소" description="上訴&#xA; 하급 법원의 판결에 따르지 않고 상급 법원에 재심을 요구하는 일." physicalName="APEL" physicalDescription="APPEAL" tag="//@tag.9"/>
@@ -7372,7 +7372,7 @@
   <term name="순계" description="[純計]예산의 계산에서 세입?세출의 중복된 부분을 제외한 순수한 총계" physicalName="PURESM" physicalDescription="PURE SUMMATION" tag="//@tag.24"/>
   <term name="순국선열" description="殉國先烈&#xA; 나라를 위하여 목숨을 바친 윗대의 열사." physicalName="PTROTMRTVR" physicalDescription="PATRIOTIC MARTYR" tag="//@tag.218"/>
   <term name="순도" description="純度&#xA; 물질의 순수한 정도." physicalName="PRTDG" physicalDescription="PURITY DEGREE" tag="//@tag.9"/>
-  <term name="순서" description="順序&#xA; 무슨 일을 행하거나 무슨 일이 이루어지는 차례." physicalName="ORDR" physicalDescription="ORDER" tag="//@tag.9"/>
+  <term name="순서" description="順序&#xA; 무슨 일을 행하거나 무슨 일이 이루어지는 차례." physicalName="SEQ" physicalDescription="SEQUENCE" tag="//@tag.9"/>
   <term name="순세계잉여금" description="[純歲計剩餘金]거둬들인 세금의 총액(총 세입예산) 에서 지출된 세금의 총액(총세출예산)을 뺀 나머지" physicalName="NTSPLS" physicalDescription="NET SURPLUS" tag="//@tag.24"/>
   <term name="순수" description="純粹&#xA; 전혀 다른 것이 섞이지 아니함. 딴 생각이나 그릇된 욕심이 전혀 없음." physicalName="PURITY" physicalDescription="PURITY" tag="//@tag.9"/>
   <term name="순시" description="巡視&#xA; 돌아다니며 사정(四正)을 보살핌." physicalName="TRINSPCT" physicalDescription="TOUR OF INSPECTION" tag="//@tag.9"/>
