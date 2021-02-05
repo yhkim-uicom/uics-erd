@@ -14229,6 +14229,7 @@
   <term name="" tag="//@tag.362"/>
   <term name="입출고회사번호" description="입고와 출고를 한 회사의 번호" physicalName="IN_OUT_CMPNY_NO" physicalDescription="IN_OUT_CMPN_NMBR에서 끝 번호를 뜻하는 물리명을 NO로 수정해서 사용함" tag="//@tag.362"/>
   <term name="가입출처" description="어떤 URL주소를 통해 가입했는지 기록한다" physicalName="SIGN_SOURCE" tag="//@tag.362"/>
+  <term name="유아이캐시" description="UIBOX에서 제품을 구매하는데 쓰이는 포인트" physicalName="UICASH" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
