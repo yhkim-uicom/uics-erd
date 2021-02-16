@@ -89,7 +89,7 @@
   <term name="등급" description="높고 낮음이나 좋고 나쁨 따위의 차이를 여러 층으로 구분한 단계" physicalName="GRAD" physicalDescription="GRADE" tag="//@tag.248"/>
   <term name="등급매출" description="물건을 내어 팖에 있어서 높고 낮음, 좋고 나쁨을 여러 단계로 나누는 구분" physicalName=" 좋고 나쁨을 여러 단계로 나누는 구분" physicalDescription="" tag="//@tag.363"/>
   <term name="등록일시" description="허가나 인정을 받기 위해 단체나 기관 따위의 문서에 이름을 올린 시기" physicalName="CREATEDATE" physicalDescription="" tag="//@tag.363"/>
-  <term name="등록일자" description="허가나 인정을 받기 위해 단체나 기관 따위의 문서에 이름을 올린 시기" physicalName="REG_DATE" physicalDescription="" tag="//@tag.363"/>
+  <term name="등록일자" description="허가나 인정을 받기 위해 단체나 기관 따위의 문서에 이름을 올린 시기" physicalName="REG_DE" physicalDescription="" tag="//@tag.363"/>
   <term name="등록자" description="법률상 정한 일정한 자격을 공증하기 위하여 관계 관청의 법적 서류에 기재한 사람" physicalName="REGISTER" physicalDescription="REGISTER" tag="//@tag.9"/>
   <term name="디자인팀전달일" description="지시, 명령, 물품 따위를 디자인팀에 전하여 이르게 함" physicalName="DESIGN_DATE" physicalDescription="" tag="//@tag.363"/>
   <term name="로그년월" description="항해 일지나 항공 일지등의 연도와 달" physicalName="LOG_YMD" physicalDescription="" tag="//@tag.363"/>
