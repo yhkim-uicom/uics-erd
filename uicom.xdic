@@ -89,7 +89,7 @@
   <term name="등급" description="높고 낮음이나 좋고 나쁨 따위의 차이를 여러 층으로 구분한 단계" physicalName="GRAD" physicalDescription="GRADE" tag="//@tag.248"/>
   <term name="등급매출" description="물건을 내어 팖에 있어서 높고 낮음, 좋고 나쁨을 여러 단계로 나누는 구분" physicalName=" 좋고 나쁨을 여러 단계로 나누는 구분" physicalDescription="" tag="//@tag.363"/>
   <term name="등록일시" description="허가나 인정을 받기 위해 단체나 기관 따위의 문서에 이름을 올린 시기" physicalName="CREATEDATE" physicalDescription="" tag="//@tag.363"/>
-  <term name="등록일자" description="허가나 인정을 받기 위해 단체나 기관 따위의 문서에 이름을 올린 시기" physicalName="REG_DATE" physicalDescription="" tag="//@tag.363"/>
+  <term name="등록일자" description="허가나 인정을 받기 위해 단체나 기관 따위의 문서에 이름을 올린 시기" physicalName="REG_DE" physicalDescription="" tag="//@tag.363"/>
   <term name="등록자" description="법률상 정한 일정한 자격을 공증하기 위하여 관계 관청의 법적 서류에 기재한 사람" physicalName="REGISTER" physicalDescription="REGISTER" tag="//@tag.9"/>
   <term name="디자인팀전달일" description="지시, 명령, 물품 따위를 디자인팀에 전하여 이르게 함" physicalName="DESIGN_DATE" physicalDescription="" tag="//@tag.363"/>
   <term name="로그년월" description="항해 일지나 항공 일지등의 연도와 달" physicalName="LOG_YMD" physicalDescription="" tag="//@tag.363"/>
@@ -3886,7 +3886,7 @@
   <term name="대통령령" description="대통령이 헌법이 부여한 권한으로 발하는 명령으로 법률과 동일한 효력을 가짐" physicalName="PREDECE" physicalDescription="PRESIDENTIAL DECREE" tag="//@tag.26"/>
   <term name="대통령비서실" description="大統領秘書室&#xA; 대통령의 원활한 국정운영을 위해 직무를 수행하는 대통령 보좌기관." physicalName="CWD" physicalDescription="OFFICE OF THE PRESIDENT" tag="//@tag.9"/>
   <term name="대통령직" description="大統領職&#xA; [법률정의] (대통령직인수에관한법률) 헌법에 의하여 대통령에게 부여된 직무." physicalName="PRSDNCY" physicalDescription="PRESIDENCY" tag="//@tag.171"/>
-  <term name="대표" description="代表&#xA; 개인이나 단체를 대신하여 그의 의사나 성질을 외부에 나타냄." physicalName="REPRSNT" physicalDescription="REPRESENTATION" tag="//@tag.9"/>
+  <term name="대표" description="代表&#xA; 개인이나 단체를 대신하여 그의 의사나 성질을 외부에 나타냄." physicalName="RPR" physicalDescription="REPRESENTATION" tag="//@tag.9"/>
   <term name="대표기록번호" description="후일에 남길 목적으로 어떤 사실을 적음. 또는 그런 글의 일련번호중 대표번호" physicalName="REPRSNTRCORDNO" physicalDescription="REPRESENTATION RCORD NUMBER" tag="//@tag.9"/>
   <term name="대표기준" description="대표가되는 기준" physicalName="REP" physicalDescription="REPRESENTATIVE" tag="//@tag.9"/>
   <term name="대표단" description="代表團&#xA; 대표하는 사람들로 이루어진 집단." physicalName="DLG" physicalDescription="DELEGATION" tag="//@tag.273"/>
@@ -6279,7 +6279,7 @@
   <term name="상사회사" description="商事會社&#xA; 상행위 기타 영리를 목적으로 상법에 의하여 설립된 사단법인(상169)." physicalName="CRCMY" physicalDescription="COMMERCIAL COMPANY" tag="//@tag.9"/>
   <term name="상선" description="商船&#xA; 삯을 받고 사람이나 짐을 나르는 데에 쓰는 배&#xA;[법률정의] (선박직원법 시행령) 제4호의 규정에 의한 어선이 아닌 선박." physicalName="MHTSP" physicalDescription="MERCHANT SHIP" tag="//@tag.34"/>
   <term name="상설" description="常設&#xA; 언제든지 이용할 수 있도록 설비와 시설을 갖추어 둠." physicalName="PRMESTBL" physicalDescription="PERMANENT ESTABLISHMENT" tag="//@tag.9"/>
-  <term name="상세" description="詳細&#xA; 낱낱이 자세함." physicalName="DETAIL" physicalDescription="DETAIL" tag="//@tag.9"/>
+  <term name="상세" description="詳細&#xA; 낱낱이 자세함." physicalName="DTL" physicalDescription="DETAIL" tag="//@tag.9"/>
   <term name="상세분류" description="詳細分類&#xA; 공통되는 부분을 자세하게 나눔" physicalName="DTLCLFC" physicalDescription="DETAIL CLASSIFICATION" tag="//@tag.9"/>
   <term name="상세유형" description="詳細類型&#xA; 자세한 종류" physicalName="DLYP" physicalDescription="DETAIL TYPE" tag="//@tag.9"/>
   <term name="상소" description="上訴&#xA; 하급 법원의 판결에 따르지 않고 상급 법원에 재심을 요구하는 일." physicalName="APEL" physicalDescription="APPEAL" tag="//@tag.9"/>
@@ -7372,7 +7372,7 @@
   <term name="순계" description="[純計]예산의 계산에서 세입?세출의 중복된 부분을 제외한 순수한 총계" physicalName="PURESM" physicalDescription="PURE SUMMATION" tag="//@tag.24"/>
   <term name="순국선열" description="殉國先烈&#xA; 나라를 위하여 목숨을 바친 윗대의 열사." physicalName="PTROTMRTVR" physicalDescription="PATRIOTIC MARTYR" tag="//@tag.218"/>
   <term name="순도" description="純度&#xA; 물질의 순수한 정도." physicalName="PRTDG" physicalDescription="PURITY DEGREE" tag="//@tag.9"/>
-  <term name="순서" description="順序&#xA; 무슨 일을 행하거나 무슨 일이 이루어지는 차례." physicalName="ORDR" physicalDescription="ORDER" tag="//@tag.9"/>
+  <term name="순서" description="順序&#xA; 무슨 일을 행하거나 무슨 일이 이루어지는 차례." physicalName="SEQ" physicalDescription="SEQUENCE" tag="//@tag.9"/>
   <term name="순세계잉여금" description="[純歲計剩餘金]거둬들인 세금의 총액(총 세입예산) 에서 지출된 세금의 총액(총세출예산)을 뺀 나머지" physicalName="NTSPLS" physicalDescription="NET SURPLUS" tag="//@tag.24"/>
   <term name="순수" description="純粹&#xA; 전혀 다른 것이 섞이지 아니함. 딴 생각이나 그릇된 욕심이 전혀 없음." physicalName="PURITY" physicalDescription="PURITY" tag="//@tag.9"/>
   <term name="순시" description="巡視&#xA; 돌아다니며 사정(四正)을 보살핌." physicalName="TRINSPCT" physicalDescription="TOUR OF INSPECTION" tag="//@tag.9"/>
@@ -14227,6 +14227,12 @@
   <term name="제품옵션" description="제품옵션 = PRDCUT_OPTION" physicalName="PRD_OPT" tag="//@tag.363"/>
   <term name="통화매니저" physicalName="CID" tag="//@tag.362"/>
   <term name="" tag="//@tag.362"/>
+  <term name="입출고회사번호" description="입고와 출고를 한 회사의 번호" physicalName="IN_OUT_CMPNY_NO" physicalDescription="IN_OUT_CMPN_NMBR에서 끝 번호를 뜻하는 물리명을 NO로 수정해서 사용함" tag="//@tag.362"/>
+  <term name="가입출처" description="어떤 URL주소를 통해 가입했는지 기록한다" physicalName="SIGN_SOURCE" tag="//@tag.362"/>
+  <term name="유아이캐시" description="UIBOX에서 제품을 구매하는데 쓰이는 포인트" physicalName="UICASH" tag="//@tag.362"/>
+  <term name="편심" physicalName="FOCUS_SHIFT" tag="//@tag.362"/>
+  <term name="오른쪽 눈 편심" physicalName="OD_FOCUS_SHIFT" tag="//@tag.362"/>
+  <term name="왼쪽 눈 편심" physicalName="OS_FOCUS_SHIFT" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
