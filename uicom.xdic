@@ -14235,6 +14235,7 @@
   <term name="왼쪽 눈 편심" physicalName="OS_FOCUS_SHIFT" tag="//@tag.362"/>
   <term name="판매사" description="UIBOX에서 제품을 판매할 수 있는 회사" physicalName="VENDOR" tag="//@tag.362"/>
   <term name="판매사여부" description="UIBOX에서 제품을 판매할 수 있는 회사를 구분한다." physicalName="VENDOR_YN" tag="//@tag.362"/>
+  <term name="제품분할판매" description="제품분할판매 = PRDUCT_SPLIT_SALES" physicalName="PRD_SPLIT_SALES" tag="//@tag.363"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
