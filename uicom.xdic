@@ -165,7 +165,7 @@
   <term name="반송일자" description="다시 되돌려 보낸 날짜" physicalName="SED_DATE" physicalDescription="" tag="//@tag.363"/>
   <term name="반품번호" description="일단 사들인 물품을 도로 돌려보내며 구별하기위해 부여된 번호" physicalName="RTN_NO" physicalDescription="" tag="//@tag.363"/>
   <term name="반품사유" description="일단 사들인 물품을 도로 돌려보내게 된 이유나 까닭" physicalName="RTN_REASON" physicalDescription="" tag="//@tag.363"/>
-  <term name="반품수량" description="도로 돌려보내는 물품의 양" physicalName="RTN_QTY" physicalDescription="" tag="//@tag.363"/>
+  <term name="반품수량" description="도로 돌려보내는 물품의 양" physicalName="RTN_QY" physicalDescription="" tag="//@tag.363"/>
   <term name="반품일자" description="일단 사들인 물품을 도로 돌려보내는 날짜" physicalName="RTN_DATE" physicalDescription="" tag="//@tag.363"/>
   <term name="받는사람" description="우편이나 전신 따위를 받는 사람" physicalName="RECIPIENT" physicalDescription="" tag="//@tag.363"/>
   <term name="발주일자" description="공급자에게 주문한 날짜" physicalName="PO_DATE" physicalDescription="" tag="//@tag.363"/>
@@ -14237,6 +14237,8 @@
   <term name="판매사여부" description="UIBOX에서 제품을 판매할 수 있는 회사를 구분한다." physicalName="VENDOR_YN" tag="//@tag.362"/>
   <term name="제품분할판매" description="제품분할판매 = PRDUCT_SPLIT_SALES" physicalName="PRD_SPLIT_SALES" tag="//@tag.363"/>
   <term name="분할판매" description="분할판매" physicalName="SPLIT_SALES" tag="//@tag.363"/>
+  <term name="폐기수량" description="반품 수량 중 일부를 재고에 포함하지 않는 폐기로 분류한다." physicalName="DSP_QY" physicalDescription="DISPOSAL_QY" tag="//@tag.362"/>
+  <term name="취소수량" description="주문또는 반품 시 신청한 제품의 수량 중 일부를 취소로 분류한다." physicalName="CNC_QY" physicalDescription="CANCEL_QY" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
