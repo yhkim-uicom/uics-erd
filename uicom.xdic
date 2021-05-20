@@ -14241,6 +14241,7 @@
   <term name="취소수량" description="주문또는 반품 시 신청한 제품의 수량 중 일부를 취소로 분류한다." physicalName="CNC_QY" physicalDescription="CANCEL_QY" tag="//@tag.362"/>
   <term name="제품옵션세트" description="제품옵션세트 = PRDUCT_OPTION_SET" physicalName="PRD_OPT_SET" tag="//@tag.363"/>
   <term name="신용거래신청" description="신용거래신청" physicalName="CRD_TRN_APL" physicalDescription="CREDIT_TRANSACTION_APPLICATION" tag="//@tag.362"/>
+  <term name="반품구분" description="반품의 구분" physicalName="RTN_CL" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
