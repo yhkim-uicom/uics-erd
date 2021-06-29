@@ -14248,6 +14248,8 @@
   <term name="취급품목" description="취급품목" physicalName="HANDLE_ITEM" tag="//@tag.362"/>
   <term name="CS제품번호" description="CS에서 사용하는 제품번호" physicalName="CS_PRDUCT_NO" tag="//@tag.362"/>
   <term name="적립포인트" description="적립된 포인트" physicalName="ADD_POINT" tag="//@tag.362"/>
+  <term name="포인트사용비율" description="포인트사용비율" physicalName="PNT_USE_RATE" tag="//@tag.362"/>
+  <term name="포인트적립비율" description="포인트적립비율" physicalName="PNT_ADD_RATE" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
