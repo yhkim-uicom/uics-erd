@@ -14254,6 +14254,7 @@
   <term name="등록출처" description="등록출처 = REGISTERED_SOURCE" physicalName="REG_SRC" tag="//@tag.363"/>
   <term name="광고" physicalName="AD" tag="//@tag.364"/>
   <term name="제품추가옵션" description="제품추가옵션" physicalName="PRD_ADD_OPT" tag="//@tag.363"/>
+  <term name="결제관리번호" description="결제관리번호" physicalName="BILL_NO" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
