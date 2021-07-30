@@ -14255,6 +14255,21 @@
   <term name="광고" physicalName="AD" tag="//@tag.364"/>
   <term name="제품추가옵션" description="제품추가옵션" physicalName="PRD_ADD_OPT" tag="//@tag.363"/>
   <term name="결제관리번호" description="결제관리번호" physicalName="BILL_NO" tag="//@tag.362"/>
+  <term name="유아이북제품번호" physicalName="UI_BOOK_PRD_NO" tag="//@tag.365"/>
+  <term name="제품번호" physicalName="PRD_NO" tag="//@tag.365"/>
+  <term name="제품명" physicalName="PRDUCT_NM" tag="//@tag.365"/>
+  <term name="유아이북제품상세번호" physicalName="UI_BOOK_PRD_DTL_NO" tag="//@tag.365"/>
+  <term name="제품특징" physicalName="PRD_FTRS" tag="//@tag.365"/>
+  <term name="원거리" physicalName="FAR_EYE" tag="//@tag.365"/>
+  <term name="중간거리" physicalName="MID_EYE" tag="//@tag.365"/>
+  <term name="근거리" physicalName="NEAR_EYE" tag="//@tag.365"/>
+  <term name="시야" physicalName="SGHT" tag="//@tag.365"/>
+  <term name="프리즘" physicalName="PRISM" tag="//@tag.365"/>
+  <term name="각인" physicalName="ENGRAVE" tag="//@tag.365"/>
+  <term name="눈" physicalName="EYE" tag="//@tag.365"/>
+  <term name="유아이북" physicalName="UI_BOOK" tag="//@tag.365"/>
+  <term name="아이포인트" physicalName="EYE_POINT" tag="//@tag.365"/>
+  <term name="변색" physicalName="TRNS_COLOR" tag="//@tag.365"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
@@ -14620,4 +14635,5 @@
   <tag name="XPOSCS"/>
   <tag name="SOTONG"/>
   <tag name="광고"/>
+  <tag name="UISP"/>
 </tm:TermDictionary>
