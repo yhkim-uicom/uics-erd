@@ -3046,7 +3046,7 @@
   <term name="기반시설부담구역" description="基盤施設負擔區域&#xA; [법률정의] (국토의 계획 및 이용에 관한 법률) 개발밀도관리구역 외의 지역으로서 개발로 인하여 기반시설의 설치가 필요한 지역을 대상으로 기반시설을 설치하거나 그에 필요한 용지를 확보하게 하기 위하여 제67조의 규정에 의하여 지정하는 구역." physicalName="ISRDN" physicalDescription="INFRASTRUCTURE BURDEN AREA" tag="//@tag.266"/>
   <term name="기법" description="技法&#xA; 기교와 방법. 또는 기교를 나타내는 방법." physicalName="TECHNIC" physicalDescription="TECHNIQUES" tag="//@tag.26"/>
   <term name="기보" description="기보(旣報)[명사][하다형 타동사] (보도나 보고를) 이미 알림, 또는 이미 알린 보도나 보고." physicalName="PRERPT" physicalDescription="PREVIOUS REPORT" tag="//@tag.9"/>
-  <term name="기본" description="基本&#xA; 사물이나 현상, 이론, 시설 따위의 기초와 근본." physicalName="BASS" physicalDescription="BASIS" tag="//@tag.32"/>
+  <term name="기본" description="基本&#xA; 사물이나 현상, 이론, 시설 따위의 기초와 근본." physicalName="BASE" physicalDescription="BASIS" tag="//@tag.32"/>
   <term name="기본금" description="基本金&#xA; 어떤 목적이나 사업, 행사 따위에 쓸 기본적인 자금. 또는 기초가 되는 자금.&#xA;[법률정의] (사학기관 재무・회계 규칙에 대한 특례규칙) 총자산에서 총부채를 뺀 순자산으로서 법인 및 학교에 계속적으로 투입・운용되는 기본적자산의 가액." physicalName="ENDW" physicalDescription="ENDOWMENT" tag="//@tag.263"/>
   <term name="기본급" description="基本給&#xA; 임금(賃金 )을 구성하는 요소 가운데, 여러 가지 수당을 제외한 급료. 여러 가지 수당, 상여금, 퇴직금 따위의 산정 기준이 된다." physicalName="BSLRY" physicalDescription="BASIC SALARY" tag="//@tag.9"/>
   <term name="기본모델" description="[법률정의] (전기용품안전 관리법 시행규칙) 별표 1에 의한 전기용품군별 안전적용기준 및 안전에 직접적인 영향을 주는 부분이 동일한 모델의 전기용품군중에서 표본적으로 안전인증을 받은 전기용품 모델." physicalName="BSMDL" physicalDescription="BASIS MODEL" tag="//@tag.9"/>
@@ -6977,7 +6977,6 @@
   <term name="소자" description="素子&#xA; 장치, 전자 회로 따위의 구성 요소가 되는 낱낱의 부품으로, 독립된 고유의 기능을 가지고 있는 것." physicalName="EL" physicalDescription="ELEMENT" tag="//@tag.7"/>
   <term name="소장" description="所長&#xA; 연구소, 강습소, 출장소 따위와 같이 ‘소(所)’라고 이름 붙인 곳의 우두머리&#xA;[법률정의] (외국인보호규칙) 출입국관리사무소장・출장소장 또는 외국인보호소장." physicalName="HDCH" physicalDescription="HEAD CHIEF" tag="//@tag.297"/>
   <term name="소장품" description="所藏品&#xA; 자기의 것으로 지니어 간직하고 있는 물품." physicalName="PSGUD" physicalDescription="POSSESSION GOODS" tag="//@tag.303"/>
-  <term name="소재" description="素材&#xA; 어떤 것을 만드는 데 바탕이 되는 재료." physicalName="MATR" physicalDescription="MATERIAL" tag="//@tag.117"/>
   <term name="소재불명자" description="所在不明者&#xA; 거주지를 떠나 일정한 기간 동안 소식이 없는 사람" physicalName="MISSING" physicalDescription="MISSING PERSON" tag="//@tag.9"/>
   <term name="소재지" description="所在地&#xA; 주요 건물이나 기관 따위가 자리 잡고 있는 곳." physicalName="LOCPLC" physicalDescription="PLACE OF LOCATION" tag="//@tag.9"/>
   <term name="소지" description="所持&#xA; 가지고 있는 일. 또는 그런 물건." physicalName="POSSES" physicalDescription="POSSESSION" tag="//@tag.9"/>
@@ -12179,7 +12178,7 @@
   <term name="추정전손" description="보험의 목적물의 현실전손이 불가피하나, 보험의 목적물의 가액을 초과하는 비용을 지출하지 않으면 현실전손을 피할 수 없는 경우의 손해을 말한다." physicalName="CNTOLOS" physicalDescription="CONSTRUCTIVE TOTAL LOSS" tag="//@tag.26"/>
   <term name="추진" description="推進&#xA; 앞으로 밀고 감." physicalName="PRTN" physicalDescription="PROPULSION" tag="//@tag.9"/>
   <term name="추징" description="追徵&#xA; 형법상 몰수하여야 할 물건을 몰수할 수 없을 때에 몰수할 수 없는 부분에 해당하는 값의 금전을 징수하는 일." physicalName="ADCHRE" physicalDescription="ADDITIONAL CHARGE" tag="//@tag.9"/>
-  <term name="추천" description="推薦&#xA; 좋거나 알맞다고 생각되는 물건을 남에게 권함" physicalName="RECOMEND" physicalDescription="RECOMMANDATION" tag="//@tag.9"/>
+  <term name="추천" description="推薦&#xA; 좋거나 알맞다고 생각되는 물건을 남에게 권함" physicalName="RCMND" physicalDescription="RECOMMANDATION" tag="//@tag.9"/>
   <term name="추천인" description="推薦人&#xA; 좋거나 알맞다고 생각되는 물건을 남에게 권하는 사람" physicalName="RECOMENDR" physicalDescription="RECOMMENDER" tag="//@tag.9"/>
   <term name="추천자" description="推薦者&#xA; 좋거나 알맞다고 생각되는 물건을 남에게 권하는 사람" physicalName="RECOMENDR" physicalDescription="RECOMMENDER" tag="//@tag.9"/>
   <term name="추첨" description="抽籤&#xA; 제비를 뽑음" physicalName="DRWT" physicalDescription="DRAWING LOTS" tag="//@tag.9"/>
@@ -14218,7 +14217,7 @@
   <term name="AS" description="애프터서비스" physicalName="AS" tag="//@tag.362"/>
   <term name="출고준비서" description="출고준비서" physicalName="DLVY_PRPARE" tag="//@tag.363"/>
   <term name="본사" description="본사" physicalName="HEAD_OFFICE" physicalDescription="본사" tag="//@tag.362"/>
-  <term name="옵션" description="옵션" physicalName="OPTN" physicalDescription="옵션" tag="//@tag.362"/>
+  <term name="옵션" description="옵션" physicalName="OPT" physicalDescription="옵션" tag="//@tag.362"/>
   <term name="주문상세번호" physicalName="ORD_DTL_NO" tag="//@tag.362"/>
   <term name="반품" description="반품" physicalName="RTN" tag="//@tag.363"/>
   <term name="입출고" description="들어오고 나감, 유의어: 수불" physicalName="IN_OUT" tag="//@tag.363"/>
@@ -14270,6 +14269,10 @@
   <term name="유아이북" physicalName="UI_BOOK" tag="//@tag.365"/>
   <term name="아이포인트" physicalName="EYE_POINT" tag="//@tag.365"/>
   <term name="변색" physicalName="TRNS_COLOR" tag="//@tag.365"/>
+  <term name="기본" physicalName="BASE" tag="//@tag.365"/>
+  <term name="장점" physicalName="ADVNT" tag="//@tag.365"/>
+  <term name="가공" physicalName="MNFCT" tag="//@tag.365"/>
+  <term name="소재" physicalName="MTRL" tag="//@tag.365"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
