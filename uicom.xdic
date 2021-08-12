@@ -258,7 +258,7 @@
   <term name="시스템이름" description="어떤 목적을 위하여 체계적으로 짜서 이룬 조직이나 제도의 이름" physicalName="SYSTENAME" physicalDescription="" tag="//@tag.363"/>
   <term name="시스템코드" description="어떤 목적을 위하여 체계적으로 짜서 이룬 조직이나 제도에 부여된 코드" physicalName="SYSTEMCODE" physicalDescription="" tag="//@tag.363"/>
   <term name="시작일자" description="어떤 일이나 행위를 처음으로 한 날짜" physicalName="BEG_DATE" physicalDescription="" tag="//@tag.363"/>
-  <term name="신상품여부" description="새로 개발하거나 기존의 것을 업그레이드하여 출시한 상품인지 아닌지 여부" physicalName="NEW_ITEM" physicalDescription="" tag="//@tag.363"/>
+  <term name="신상품여부" description="새로 개발하거나 기존의 것을 업그레이드하여 출시한 상품인지 아닌지 여부" physicalName="NEW_ITEM_YN" physicalDescription="" tag="//@tag.363"/>
   <term name="실재고합" description="실제로 창고에 남아있는 물품의 합" physicalName="REAL_SUM_QTY" physicalDescription="" tag="//@tag.363"/>
   <term name="아이템" description="온라인 게임에서, 갑옷이나 무기 따위의 도구나 장식용 의류, 액세서리 따위를 두루 이르는 말" physicalName="ITM" physicalDescription="ITEM" tag="//@tag.9"/>
   <term name="안전인증수수료" description="위험이 생기거나 사고가 날 염려가 없이 편안하고 온전한 상태임을 공적 기관이 인정하여 증명해 준 데 대한 대가로 주는 요금" physicalName="IN_SAFE_MONEY" physicalDescription="" tag="//@tag.363"/>
@@ -14273,6 +14273,9 @@
   <term name="장점" physicalName="ADVNT" tag="//@tag.365"/>
   <term name="가공" physicalName="MNFCT" tag="//@tag.365"/>
   <term name="소재" physicalName="MTRL" tag="//@tag.365"/>
+  <term name="신상품" description="신상품" physicalName="NEW_ITEM" tag="//@tag.362"/>
+  <term name="인기상품여부" description="인기상품여부" physicalName="PRLR_ITEM_YN" tag="//@tag.362"/>
+  <term name="여부" description="Y or N  으로 여부판단" physicalName="YN" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
