@@ -14276,6 +14276,7 @@
   <term name="신상품" description="신상품" physicalName="NEW_ITEM" tag="//@tag.362"/>
   <term name="인기상품여부" description="인기상품여부" physicalName="PRLR_ITEM_YN" tag="//@tag.362"/>
   <term name="여부" description="Y or N  으로 여부판단" physicalName="YN" tag="//@tag.362"/>
+  <term name="제품게시글" physicalName="PRD_BBS" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
