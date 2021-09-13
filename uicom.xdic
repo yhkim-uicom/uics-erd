@@ -14215,7 +14215,7 @@
   <term name="원톤" description="렌즈를 한가지 농도로 착색한다" physicalName="ONETONE" tag="//@tag.362"/>
   <term name="투톤" description="렌즈를 두가지 농도로 착색한다" physicalName="TWOTONE" tag="//@tag.362"/>
   <term name="AS" description="애프터서비스" physicalName="AS" tag="//@tag.362"/>
-  <term name="출고준비서" description="출고준비서" physicalName="DLVY_PRPARE" tag="//@tag.363"/>
+  <term name="제품추가옵션" description="출고준비서" physicalName="DLVY_PRPARE" tag="//@tag.363"/>
   <term name="본사" description="본사" physicalName="HEAD_OFFICE" physicalDescription="본사" tag="//@tag.362"/>
   <term name="옵션" description="옵션" physicalName="OPT" physicalDescription="옵션" tag="//@tag.362"/>
   <term name="주문상세번호" physicalName="ORD_DTL_NO" tag="//@tag.362"/>
@@ -14242,7 +14242,7 @@
   <term name="신용거래신청" description="신용거래신청" physicalName="CRD_TRN_APL" physicalDescription="CREDIT_TRANSACTION_APPLICATION" tag="//@tag.362"/>
   <term name="반품구분" description="반품의 구분" physicalName="RTN_CL" tag="//@tag.362"/>
   <term name="제품원명" description="제품의 원래 이름 = PRODUCT_ORIGIN_NAME" physicalName="PRD_ORG_NM" tag="//@tag.363"/>
-  <term name="인도장소명" description="인도장소명" physicalName="DELY_PLACE_NM" tag="//@tag.363"/>
+  <term name="인도장소명" description="창고구역 = WAREHOUSE_SECTOR" physicalName="DELY_PLACE_NM" tag="//@tag.363"/>
   <term name="수정회원아이디" description="수정회원아이디" physicalName="UPDATE_MBER_ID" tag="//@tag.363"/>
   <term name="취급품목" description="취급품목" physicalName="HANDLE_ITEM" tag="//@tag.362"/>
   <term name="CS제품번호" description="CS에서 사용하는 제품번호" physicalName="CS_PRDUCT_NO" tag="//@tag.362"/>
@@ -14250,7 +14250,7 @@
   <term name="포인트사용비율" description="포인트사용비율" physicalName="PNT_USE_RATE" tag="//@tag.362"/>
   <term name="포인트적립비율" description="포인트적립비율" physicalName="PNT_ADD_RATE" tag="//@tag.362"/>
   <term name="면세여부" description="면세여부" physicalName="DUTY_FREE_YN" tag="//@tag.363"/>
-  <term name="등록출처" description="등록출처 = REGISTERED_SOURCE" physicalName="REG_SRC" tag="//@tag.363"/>
+  <term name="등록출처" description="등록출처" physicalName="REG_SRC" tag="//@tag.363"/>
   <term name="광고" physicalName="AD" tag="//@tag.364"/>
   <term name="제품추가옵션" description="제품추가옵션" physicalName="PRD_ADD_OPT" tag="//@tag.363"/>
   <term name="결제관리번호" description="결제관리번호" physicalName="BILL_NO" tag="//@tag.362"/>
@@ -14276,7 +14276,13 @@
   <term name="신상품" description="신상품" physicalName="NEW_ITEM" tag="//@tag.362"/>
   <term name="인기상품여부" description="인기상품여부" physicalName="PRLR_ITEM_YN" tag="//@tag.362"/>
   <term name="여부" description="Y or N  으로 여부판단" physicalName="YN" tag="//@tag.362"/>
+<<<<<<< HEAD
   <term name="제품게시글" physicalName="PRD_BBS" tag="//@tag.362"/>
+=======
+  <term name="창고구역" description="창고구역 = WAREHOUSE_SECTOR" physicalName="WRHOUS_SC" tag="//@tag.363"/>
+  <term name="재고수불" description="재고수불" physicalName="STOCK_SPLY" tag="//@tag.363"/>
+  <term name="일정등록" description="일정등록" physicalName="SCH_REG" tag="//@tag.363"/>
+>>>>>>> branch 'master' of ssh://git@pms.uicom.kr:9022/uicom/xcs/xposcs-erd.git
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
