@@ -14281,6 +14281,7 @@
   <term name="재고수불" description="재고수불" physicalName="STOCK_SPLY" tag="//@tag.363"/>
   <term name="일정등록" description="일정등록" physicalName="SCH_REG" tag="//@tag.363"/>
   <term name="테스트" description="2" physicalName="TEST" tag="//@tag.362"/>
+  <term name="UIBOX프로모션" description="UIBOX프로모션" physicalName="UIBOX_PROMTN" tag="//@tag.362"/>
   <tag name="기록물관리"/>
   <tag name="교육인적자원 행정지원"/>
   <tag name="재난예방 관리"/>
